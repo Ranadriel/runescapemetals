@@ -1,0 +1,62 @@
+[
+	{
+		"op": "add",
+		"file": "runestory:recipes/runealtar/runepick.json",
+		"path": "/-",
+		"value": {
+			"code": "makeruncpickmith",
+			"enabled": true,
+			"attributes": {
+				"catalyst": "runestory:rune-blank",
+				"reagents": { "game:pickaxe-mithril": 1 },
+				"outputs":  { "runestory:runicpickaxe-mithril": 1 }
+			}
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "add",
+		"file": "runestory:recipes/runealtar/runepick.json",
+		"path": "/-",
+		"value": {
+			"code": "makeruncpickadam",
+			"enabled": true,
+			"attributes": {
+				"catalyst": "runestory:rune-blank",
+				"reagents": { "game:pickaxe-adamantite": 1 },
+				"outputs":  { "runestory:runicpickaxe-adamantite": 1 }
+			}
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "add",
+		"file": "runestory:recipes/runealtar/runepick.json",
+		"path": "/-",
+		"value": {
+			"code": "makeruncpickrune",
+			"enabled": true,
+			"attributes": {
+				"catalyst": "runestory:rune-blank",
+				"reagents": { "game:pickaxe-runite": 1 },
+				"outputs":  { "runestory:runicpickaxe-runite": 1 }
+			}
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "add",
+		"file": "runestory:recipes/runealtar/runepick.json",
+		"path": "/-",
+		"value": {
+			"code": "makeruncpickdrag",
+			"enabled": true,
+			"attributes": {
+				"catalyst": "runestory:rune-blank",
+				"reagents": { "game:pickaxe-dragon": 1 },
+				"outputs":  { "runestory:runicpickaxe-dragon": 1 }
+			}
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	}
+]

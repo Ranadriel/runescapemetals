@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/requiredMiningTierByType/ore-*-mithril-*",
+    "value": 4
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/requiredMiningTierByType/ore-*-adamantite-*",
+    "value": 5
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/requiredMiningTierByType/ore-*-runite-*",
+    "value": 6
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/requiredMiningTierByType/ore-*-dragon-*",
+    "value": 7
+  }
+]

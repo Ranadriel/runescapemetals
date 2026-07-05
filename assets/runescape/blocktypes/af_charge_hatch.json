@@ -1,0 +1,20 @@
+{
+	"code": "af_charge_hatch",
+	"class": "BlockMultiblockPart",
+	"entityClass": "BEMultiblockPart",
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/af_charge_hatch" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 6,
+	"materialDensity": 3500,
+	"blockmaterial": "Metal",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

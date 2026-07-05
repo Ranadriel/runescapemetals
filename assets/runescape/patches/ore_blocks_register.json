@@ -1,0 +1,212 @@
+[
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-mithril-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-mithril-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-mithril-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-bountiful-mithril-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-mithril-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-mithril-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-mithril-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-mithril-andesite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-mithril-andesite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-mithril-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-mithril-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-mithril-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-mithril-slate"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-mithril-slate"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-adamantite-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-adamantite-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-adamantite-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-adamantite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-adamantite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-adamantite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-adamantite-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-adamantite-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-adamantite-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-adamantite-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-runite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-runite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-rich-runite-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-runite-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-runite-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-runite-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-runite-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-dragon-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-dragon-kimberlite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-poor-dragon-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-medium-dragon-peridotite"
+  }
+]

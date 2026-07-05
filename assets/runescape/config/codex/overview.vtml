@@ -1,0 +1,11 @@
+<strong>RuneScape Metals + Woods + Runecrafting</strong>
+
+A content overhaul that adds a post-steel metal ladder (mithril, adamantite, runite, dragon), a bow + fletching tradition across six wood grades, a multiblock crucible system, an OSRS Hunter skill with traps, and integrations for Rune-Story and Primitive Survival.
+
+This codex is the unified entry point. Use the search box up top, browse the nav on the left, or follow blue <a href="metals">cross-links</a> like this one.
+
+<strong>What kind of book is this?</strong>
+Every section lives in <em>assets/runescape/config/codex/</em>. Add a page by dropping in a new .vtml file and referencing it from index.json — no code change, no rebuild.
+
+<strong>Recent changes</strong>
+See <a href="changelog">What's new</a>.

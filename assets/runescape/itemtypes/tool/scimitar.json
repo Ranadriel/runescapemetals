@@ -1,0 +1,25 @@
+{
+	"code": "scimitar",
+	"tags": ["weapon", "weapon-melee", "weapon-sword"],
+	"damagedby": ["attacking"],
+	"variantgroups": [
+		{ "code": "metal", "states": ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	"shape": { "base": "runescape:item/tool/scimitar" },
+	"textures": {
+		"blade": { "base": "runescape:block/metal/ingot/{metal}" },
+		"handle": { "base": "game:block/wood/debarked/aged" }
+	},
+	"attackpowerbytype": {
+		"scimitar-mithril": 6,
+		"scimitar-adamantite": 7,
+		"scimitar-runite": 8,
+		"scimitar-dragon": 10
+	},
+	"heldTpHitAnimation": "falx",
+	"maxstacksize": 1,
+	"creativeinventory": { "general": ["*"], "items": ["*"], "tools": ["*"] },
+	"guiTransform": { "rotate": false, "translation":{"x":-13,"y":11,"z":0}, "rotation":{"x":0,"y":0,"z":-140}, "origin":{"x":0.61,"y":0,"z":0.47}, "scale":1.15 },
+	"tpHandTransform": { "translation":{"x":-0.25,"y":0,"z":-0.395}, "rotation":{"x":-180,"y":0,"z":-90}, "origin":{"x":0.5,"y":0,"z":0.5}, "scale":0.78 },
+	"groundTransform": { "translation":{"x":0,"y":0,"z":0}, "rotation":{"x":0,"y":0,"z":90}, "origin":{"x":0.5,"y":0.5,"z":0.5}, "scale":1.5 }
+}

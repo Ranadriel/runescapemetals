@@ -1,0 +1,26 @@
+[
+	{ "file": "game:itemtypes/tool/blade.json",        "op": "add", "path": "/variantgroups/1/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/blade.json",        "op": "add", "path": "/variantgroups/1/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/blade.json",        "op": "add", "path": "/variantgroups/1/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/blade.json",        "op": "add", "path": "/variantgroups/1/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/pickaxe.json",      "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/pickaxe.json",      "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/pickaxe.json",      "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/pickaxe.json",      "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json","op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json","op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json","op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json","op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/axe-metal.json",    "op": "add", "path": "/variantgroups/1/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/axe-metal.json",    "op": "add", "path": "/variantgroups/1/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/axe-metal.json",    "op": "add", "path": "/variantgroups/1/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/axe-metal.json",    "op": "add", "path": "/variantgroups/1/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/axehead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/axehead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/axehead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/axehead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" }
+]

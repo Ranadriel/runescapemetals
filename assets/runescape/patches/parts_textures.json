@@ -1,0 +1,13 @@
+[
+	{ "file": "game:itemtypes/part/hoop.json", "op": "remove", "path": "/textures" },
+	{ "file": "game:itemtypes/part/hoop.json", "op": "add", "path": "/texturesByType", "value": {
+		"@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)": { "metal": { "base": "runescape:block/metal/ingot/{metal}" } },
+		"*": { "metal": { "base": "block/metal/ingot/{metal}" } }
+	}},
+
+	{ "file": "game:itemtypes/resource/metalbit.json", "op": "remove", "path": "/textures" },
+	{ "file": "game:itemtypes/resource/metalbit.json", "op": "add", "path": "/texturesByType", "value": {
+		"@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)": { "ore": { "base": "runescape:block/metal/ingot/{metal}" } },
+		"*": { "ore": { "base": "block/metal/ingot/{metal}" } }
+	}}
+]

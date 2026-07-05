@@ -1,0 +1,26 @@
+[
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-mithril",    "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-adamantite", "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-runite",     "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-dragon",     "value": { "base": "item/tool/hoe-copper" } },
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-mithril",    "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-adamantite", "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-runite",     "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-dragon",     "value": { "base": "item/tool/shovelhead-copper" } },
+
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-mithril",    "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-adamantite", "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-runite",     "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-dragon",     "value": { "base": "item/tool/axe/iron" } },
+
+	{ "file": "game:itemtypes/toolhead/spearhead.json", "op": "add", "path": "/shapeByType/spearhead-mithril",    "value": { "base": "runescape:item/tool/spear/metal-mithril" } },
+	{ "file": "game:itemtypes/toolhead/spearhead.json", "op": "add", "path": "/shapeByType/spearhead-adamantite", "value": { "base": "runescape:item/tool/spear/metal-adamantite" } },
+	{ "file": "game:itemtypes/toolhead/spearhead.json", "op": "add", "path": "/shapeByType/spearhead-runite",     "value": { "base": "runescape:item/tool/spear/metal-runite" } },
+	{ "file": "game:itemtypes/toolhead/spearhead.json", "op": "add", "path": "/shapeByType/spearhead-dragon",     "value": { "base": "runescape:item/tool/spear/metal-dragon" } },
+
+	{ "file": "game:itemtypes/toolhead/arrowhead.json", "op": "add", "path": "/shapeByType/arrowhead-mithril",    "value": { "base": "runescape:item/tool/arrowhead-mithril" } },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json", "op": "add", "path": "/shapeByType/arrowhead-adamantite", "value": { "base": "runescape:item/tool/arrowhead-adamantite" } },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json", "op": "add", "path": "/shapeByType/arrowhead-runite",     "value": { "base": "runescape:item/tool/arrowhead-runite" } },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json", "op": "add", "path": "/shapeByType/arrowhead-dragon",     "value": { "base": "runescape:item/tool/arrowhead-dragon" } }
+]

@@ -1,0 +1,13 @@
+[
+	{
+		"file": "game:itemtypes/tool/scythe.json",
+		"op": "add",
+		"path": "/classByType",
+		"value": {
+			"scythe-mithril":    "ItemScytheTiered",
+			"scythe-adamantite": "ItemScytheTiered",
+			"scythe-runite":     "ItemScytheTiered",
+			"scythe-dragon":     "ItemScytheTiered"
+		}
+	}
+]

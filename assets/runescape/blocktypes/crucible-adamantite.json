@@ -1,0 +1,105 @@
+{
+	code: "crucible-adamantite",
+	behaviors: [],
+	classByType: {
+		"crucible-adamantite-fired": "BlockCrucibleMachine",
+		"crucible-adamantite-smelted": "BlockSmeltedContainer"
+	},
+	entityBehaviors: [{ name: "Animatable" }],
+	heldTpIdleAnimation: "holdbothhandslarge",
+	variantgroups: [
+		{ code: "type", states: ["fired", "smelted"] }
+	],
+	shape: { base: "runescape:block/crucible-large" },
+	textures: {
+		steel: { base: "runescape:block/metal/sheet-plain/adamantite3" },
+		iron:  { base: "game:block/metal/sheet/steel1" },
+		dark:  { base: "game:block/coal/charcoal" },
+		ember: { base: "game:block/coal/ember" },
+		wood:  { base: "game:block/wood/charred" }
+	},
+	attributes: {
+		tempGlowMode: 1,
+		shelvable: true,
+		inFirePitProps: {
+			transform: { },
+			useFirepitModel: "Wide"
+		},
+		onTongTransform: {
+			translation: { x: -1.4, y: -1.04, z: -1.11 },
+			rotation: { x: -83, y: -19, z: -4 },
+			scale: 0.63
+		},
+		handbook: {
+			groupBy: ["crucible-adamantite-{type}"]
+		},
+		tongOpening: "wide",
+		onMetalTongTransform: {
+			translation: { x: -1.025, y: -0.12, z: -0.31 },
+			rotation: { x: -90, y: -9, z: 0 },
+			origin: { x: 0.5, y: -0, z: 0.5 }
+		},
+		displayable: {
+			shelf: {
+				size: { width: 5, height: 7, length: 5 }
+			}
+		}
+	},
+	attributesByType: {
+		"crucible-adamantite-fired": {
+			cookingContainerSlots: 32,
+			maxContentDimensions: { width: 0.5, height: 0.5, length: 0.25 },
+			storageType: 4,
+			maxHeatableTemp: 2100
+		},
+		"crucible-adamantite-smelted": {
+			emptiedBlockCode: "crucible-adamantite-fired"
+		}
+	},
+	entityclassByType: {
+		"*-smelted": "SmeltedContainer",
+		"*-fired": "CrucibleMachine"
+	},
+	doNotRenderAtLod2: true,
+	blockmaterial: "Metal",
+	creativeinventory: { "general": ["*-fired"], "decorative": ["*-fired"] },
+	replaceable: 300,
+	resistance: 8,
+	maxStackSizeByType: {
+		"*-fired": 4,
+		"*-smelted": 1
+	},
+	lightAbsorption: 0,
+	sounds: {
+		walk: "walk/stone"
+	},
+	sideopaque: {
+		all: false
+	},
+	sidesolid: {
+		all: false
+	},
+	emitsideao: {
+		all: false
+	},
+	collisionSelectionBoxes: [
+		{ x1: 0.125,  y1: 0,       z1: 0.125,   x2: 0.875,  y2: 0.625,  z2: 0.875   },
+		{ x1: 0.0625, y1: 0.5625,  z1: 0.4375,  x2: 0.1875, y2: 1.4375, z2: 0.5625  },
+		{ x1: 0.8125, y1: 0.5625,  z1: 0.4375,  x2: 0.9375, y2: 1.4375, z2: 0.5625  },
+		{ x1: 0.25,   y1: 0.8125,  z1: 0.28125, x2: 0.75,   y2: 1.5625, z2: 0.71875 }
+	],
+	guiTransform: {
+		origin: { x: 0.5, y: 0.45, z: 0.5 },
+		scale: 0.9
+	},
+	groundTransform: {
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 1.0
+	},
+	tpHandTransform: {
+		translation: { x: -0.5, y: 0, z: -0.4 },
+		rotation: { x: 13, y: 11, z: -76 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 0.65
+	}
+}

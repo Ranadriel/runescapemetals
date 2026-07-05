@@ -1,0 +1,22 @@
+<strong>What's new</strong>
+
+<strong>1.0.3 (in progress) — the Super Codex</strong>
+This book you're reading. Pages now live in <em>assets/runescape/config/codex/</em>. Search box, category grouping, cross-links (blue underlined text), bookmarks, and a category filter. Adding a page = drop a .vtml file, list it in index.json, done — no code change.
+
+Also this cycle:
+• Tier-scaled harvest tools (scythe / hoe / shears / axe) — see <a href="specials">Tier-scaled tools</a>.
+• Attack curve rescaled to steel × 1.25ⁿ.
+
+<strong>1.0.2 (published)</strong>
+• <a href="superheater">Superheater</a> block (+300°C to any large crucible).
+• Metal-framed <a href="packs">pack ladder</a> (10/12/14/16 slots).
+• Wooden Skep <a href="apiary">apiary</a> (permanent Catherby-style hive).
+• Launder shape lifted into its own cell (was buried a block below).
+• Boxtrap and birdsnare texture parse fixes (12 boot errors gone).
+• Cross-mod lang delivery corrected (primitivesurvival hooks/lures/spikeplates, runestory runic pickaxes).
+• Smithcodex recipe fixed (flax twine, book shape).
+
+<strong>Known gaps</strong>
+• Arc + blast furnace: structures validate; no smelting payload yet.
+• Casting cradle: animation only.
+• Mithril tools currently share steel's mining tier (5); the 6/7/8/9 tool ladder is a pending balance call.

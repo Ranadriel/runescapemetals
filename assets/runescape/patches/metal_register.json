@@ -1,0 +1,74 @@
+[
+	{
+		"file": "game:worldproperties/block/metal.json",
+		"op": "addmerge",
+		"path": "/variants/-",
+		"value": {
+			"code": "mithril",
+			"meltPoint": 1727,
+			"boilPoint": 3335,
+			"density": 8993,
+			"specificHeatCapacity": 0.46,
+			"elemental": false,
+			"tier": 5,
+			"quenchMinTemp": 815,
+			"quenchMaxTemp": 1050,
+			"temperMinTemp": 550,
+			"temperMaxTemp": 700
+		}
+	},
+	{
+		"file": "game:worldproperties/block/metal.json",
+		"op": "addmerge",
+		"path": "/variants/-",
+		"value": {
+			"code": "adamantite",
+			"meltPoint": 1953,
+			"boilPoint": 3770,
+			"density": 10166,
+			"specificHeatCapacity": 0.42,
+			"elemental": false,
+			"tier": 6,
+			"quenchMinTemp": 815,
+			"quenchMaxTemp": 1050,
+			"temperMinTemp": 550,
+			"temperMaxTemp": 700
+		}
+	},
+	{
+		"file": "game:worldproperties/block/metal.json",
+		"op": "addmerge",
+		"path": "/variants/-",
+		"value": {
+			"code": "runite",
+			"meltPoint": 2253,
+			"boilPoint": 4350,
+			"density": 11730,
+			"specificHeatCapacity": 0.40,
+			"elemental": false,
+			"tier": 7,
+			"quenchMinTemp": 900,
+			"quenchMaxTemp": 1150,
+			"temperMinTemp": 600,
+			"temperMaxTemp": 750
+		}
+	},
+	{
+		"file": "game:worldproperties/block/metal.json",
+		"op": "addmerge",
+		"path": "/variants/-",
+		"value": {
+			"code": "dragon",
+			"meltPoint": 2629,
+			"boilPoint": 5075,
+			"density": 13685,
+			"specificHeatCapacity": 0.38,
+			"elemental": false,
+			"tier": 8,
+			"quenchMinTemp": 950,
+			"quenchMaxTemp": 1200,
+			"temperMinTemp": 650,
+			"temperMaxTemp": 800
+		}
+	}
+]

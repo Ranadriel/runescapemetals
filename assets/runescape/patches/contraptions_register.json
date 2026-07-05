@@ -1,0 +1,202 @@
+[
+	{
+		"file": "game:itemtypes/resource/metalnailsandstrips.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "*-mithril"
+	},
+	{
+		"file": "game:itemtypes/resource/metalnailsandstrips.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "*-adamantite"
+	},
+	{
+		"file": "game:itemtypes/resource/metalnailsandstrips.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "*-runite"
+	},
+	{
+		"file": "game:itemtypes/resource/metalnailsandstrips.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "*-dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/padlock.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/padlock.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/padlock.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/padlock.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/mithril",
+		"value": {
+			"base": "block/metal/lantern/mithril"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/adamantite",
+		"value": {
+			"base": "block/metal/lantern/adamantite"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/runite",
+		"value": {
+			"base": "block/metal/lantern/runite"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/dragon",
+		"value": {
+			"base": "block/metal/lantern/dragon"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/deco-mithril",
+		"value": {
+			"base": "block/metal/lantern/mithril-deco"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/deco-adamantite",
+		"value": {
+			"base": "block/metal/lantern/adamantite-deco"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/deco-runite",
+		"value": {
+			"base": "block/metal/lantern/runite-deco"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/deco-dragon",
+		"value": {
+			"base": "block/metal/lantern/dragon-deco"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/grid-mithril",
+		"value": {
+			"base": "block/metal/lantern/grid/mithril"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/grid-adamantite",
+		"value": {
+			"base": "block/metal/lantern/grid/adamantite"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/grid-runite",
+		"value": {
+			"base": "block/metal/lantern/grid/runite"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/textures/grid-dragon",
+		"value": {
+			"base": "block/metal/lantern/grid/dragon"
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/creativeinventoryStacksByType/*-up/0/stacks/-",
+		"value": {
+			"type": "block",
+			"code": "lantern-{size}-up",
+			"attributes": {
+				"material": "mithril",
+				"lining": "plain",
+				"glass": "quartz"
+			}
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/creativeinventoryStacksByType/*-up/0/stacks/-",
+		"value": {
+			"type": "block",
+			"code": "lantern-{size}-up",
+			"attributes": {
+				"material": "adamantite",
+				"lining": "plain",
+				"glass": "quartz"
+			}
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/creativeinventoryStacksByType/*-up/0/stacks/-",
+		"value": {
+			"type": "block",
+			"code": "lantern-{size}-up",
+			"attributes": {
+				"material": "runite",
+				"lining": "plain",
+				"glass": "quartz"
+			}
+		}
+	},
+	{
+		"file": "game:blocktypes/metal/lantern.json",
+		"op": "add",
+		"path": "/creativeinventoryStacksByType/*-up/0/stacks/-",
+		"value": {
+			"type": "block",
+			"code": "lantern-{size}-up",
+			"attributes": {
+				"material": "dragon",
+				"lining": "plain",
+				"glass": "quartz"
+			}
+		}
+	}
+]

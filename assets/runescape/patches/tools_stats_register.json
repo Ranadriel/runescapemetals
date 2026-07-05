@@ -1,0 +1,71 @@
+[
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/durabilitybytype/axe-felling-mithril",    "value": 2070 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/durabilitybytype/axe-felling-adamantite", "value": 2340 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/durabilitybytype/axe-felling-runite",     "value": 2700 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/durabilitybytype/axe-felling-dragon",     "value": 3150 },
+
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/attackpowerbytype/axe-felling-mithril",    "value": 5.00 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/attackpowerbytype/axe-felling-adamantite", "value": 6.25 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/attackpowerbytype/axe-felling-runite",     "value": 7.81 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/attackpowerbytype/axe-felling-dragon",     "value": 9.77 },
+
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/tooltierbytype/*-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/tooltierbytype/*-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/tooltierbytype/*-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/tooltierbytype/*-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/miningspeedbytype/axe-felling-mithril",    "value": { "wood": 13.75, "plant": 7.50,  "leaves": 5.00 } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/miningspeedbytype/axe-felling-adamantite", "value": { "wood": 17.19, "plant": 9.38,  "leaves": 6.25 } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/miningspeedbytype/axe-felling-runite",     "value": { "wood": 21.48, "plant": 11.72, "leaves": 7.81 } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/miningspeedbytype/axe-felling-dragon",     "value": { "wood": 26.86, "plant": 14.65, "leaves": 9.77 } },
+
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/durabilitybytype/blade-falx-mithril",    "value": 2444 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/durabilitybytype/blade-falx-adamantite", "value": 2763 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/durabilitybytype/blade-falx-runite",     "value": 3188 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/durabilitybytype/blade-falx-dragon",     "value": 3719 },
+
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/attackpowerbytype/blade-falx-mithril",    "value": 6.0 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/attackpowerbytype/blade-falx-adamantite", "value": 7.0 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/attackpowerbytype/blade-falx-runite",     "value": 8.0 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/attackpowerbytype/blade-falx-dragon",     "value": 9.5 },
+
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/tooltierbytype/*-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/tooltierbytype/*-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/tooltierbytype/*-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/tooltierbytype/*-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/durabilitybytype/spear-generic-mithril",    "value": 805 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/durabilitybytype/spear-generic-adamantite", "value": 910 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/durabilitybytype/spear-generic-runite",     "value": 1050 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/durabilitybytype/spear-generic-dragon",     "value": 1225 },
+
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attackpowerbytype/spear-generic-mithril",    "value": 5.1 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attackpowerbytype/spear-generic-adamantite", "value": 5.7 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attackpowerbytype/spear-generic-runite",     "value": 6.2 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attackpowerbytype/spear-generic-dragon",     "value": 6.7 },
+
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageByType/*-mithril",    "value": 7.1 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageByType/*-adamantite", "value": 8.1 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageByType/*-runite",     "value": 10.5 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageByType/*-dragon",     "value": 12.3 },
+
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageTierByType/*-mithril",    "value": 3 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageTierByType/*-adamantite", "value": 4 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageTierByType/*-runite",     "value": 5 },
+	{ "file": "game:itemtypes/tool/spear.json", "op": "add", "path": "/attributes/damageTierByType/*-dragon",     "value": 5 },
+
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/durabilitybytype/shovel-mithril",    "value": 3450 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/durabilitybytype/shovel-adamantite", "value": 3900 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/durabilitybytype/shovel-runite",     "value": 4500 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/durabilitybytype/shovel-dragon",     "value": 5250 },
+
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/attackpowerbytype/shovel-mithril",    "value": 2.9 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/attackpowerbytype/shovel-adamantite", "value": 3.3 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/attackpowerbytype/shovel-runite",     "value": 3.8 },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/attackpowerbytype/shovel-dragon",     "value": 4.4 },
+
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/miningspeedbytype/shovel-mithril",    "value": { "soil": 8.1,  "sand": 8.1,  "gravel": 5.1, "snow": 5.1 } },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/miningspeedbytype/shovel-adamantite", "value": { "soil": 9.1,  "sand": 9.1,  "gravel": 5.7, "snow": 5.7 } },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/miningspeedbytype/shovel-runite",     "value": { "soil": 10.5, "sand": 10.5, "gravel": 6.6, "snow": 6.6 } },
+	{ "file": "game:itemtypes/tool/shovel.json", "op": "add", "path": "/miningspeedbytype/shovel-dragon",     "value": { "soil": 12.3, "sand": 12.3, "gravel": 7.7, "snow": 7.7 } }
+]

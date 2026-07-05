@@ -1,0 +1,101 @@
+[
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/variantgroups/1/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/variantgroups/1/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/variantgroups/1/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/variantgroups/1/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json",  "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/hoehead.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/hoehead.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/hoehead.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/hoehead.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/spearhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/spearhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/spearhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/spearhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/arrowhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/arrowhead.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/arrow.json",           "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/tool/arrow.json",           "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/tool/arrow.json",           "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/tool/arrow.json",           "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/part/helvehammer.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/part/helvehammer.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/part/helvehammer.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/part/helvehammer.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/part/helvehammerhead.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/part/helvehammerhead.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/part/helvehammerhead.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/part/helvehammerhead.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/shapeByType/shovel-mithril",    "value": { "base": "item/tool/shovel-copper" } },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/shapeByType/shovel-adamantite", "value": { "base": "item/tool/shovel-copper" } },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/shapeByType/shovel-runite",     "value": { "base": "item/tool/shovel-copper" } },
+	{ "file": "game:itemtypes/tool/shovel.json",          "op": "add", "path": "/shapeByType/shovel-dragon",     "value": { "base": "item/tool/shovel-copper" } },
+
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/shapeByType/hoe-mithril",    "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/shapeByType/hoe-adamantite", "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/shapeByType/hoe-runite",     "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/tool/hoe.json",             "op": "add", "path": "/shapeByType/hoe-dragon",     "value": { "base": "item/tool/hoe-copper" } },
+
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/shapeByType/spear-generic-mithril",    "value": { "base": "runescape:item/tool/spear/metal-mithril" } },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/shapeByType/spear-generic-adamantite", "value": { "base": "runescape:item/tool/spear/metal-adamantite" } },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/shapeByType/spear-generic-runite",     "value": { "base": "runescape:item/tool/spear/metal-runite" } },
+	{ "file": "game:itemtypes/tool/spear.json",           "op": "add", "path": "/shapeByType/spear-generic-dragon",     "value": { "base": "runescape:item/tool/spear/metal-dragon" } },
+
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/texturesByType/blade-falx-mithril",    "value": { "falxstring": { "base": "block/transparent" }, "thongs": { "base": "block/transparent" }, "woodguard": { "base": "block/transparent" }, "handle": { "base": "block/wood/debarked/aged" }, "falxblade": { "base": "runescape:block/metal/ingot/mithril" },    "cloth": { "base": "block/transparent" }, "handguard": { "base": "runescape:block/metal/sheet/mithril1" },    "spinerivet": { "base": "runescape:block/metal/sheet/mithril1" },    "pips": { "base": "block/transparent" } } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/texturesByType/blade-falx-adamantite", "value": { "falxstring": { "base": "block/transparent" }, "thongs": { "base": "block/transparent" }, "woodguard": { "base": "block/transparent" }, "handle": { "base": "block/wood/debarked/aged" }, "falxblade": { "base": "runescape:block/metal/ingot/adamantite" }, "cloth": { "base": "block/transparent" }, "handguard": { "base": "runescape:block/metal/sheet/adamantite1" }, "spinerivet": { "base": "runescape:block/metal/sheet/adamantite1" }, "pips": { "base": "block/transparent" } } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/texturesByType/blade-falx-runite",     "value": { "falxstring": { "base": "block/transparent" }, "thongs": { "base": "block/transparent" }, "woodguard": { "base": "block/transparent" }, "handle": { "base": "block/wood/debarked/aged" }, "falxblade": { "base": "runescape:block/metal/ingot/runite" },     "cloth": { "base": "block/transparent" }, "handguard": { "base": "runescape:block/metal/sheet/runite1" },     "spinerivet": { "base": "runescape:block/metal/sheet/runite1" },     "pips": { "base": "block/transparent" } } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/texturesByType/blade-falx-dragon",     "value": { "falxstring": { "base": "block/transparent" }, "thongs": { "base": "block/transparent" }, "woodguard": { "base": "block/transparent" }, "handle": { "base": "block/wood/debarked/aged" }, "falxblade": { "base": "runescape:block/metal/ingot/dragon" },     "cloth": { "base": "block/transparent" }, "handguard": { "base": "runescape:block/metal/sheet/dragon1" },     "spinerivet": { "base": "runescape:block/metal/sheet/dragon1" },     "pips": { "base": "block/transparent" } } },
+
+	{ "file": "game:recipes/smithing/shovel.json",        "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/shovel.json",        "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/shovel.json",        "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/shovel.json",        "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/hoe.json",           "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/hoe.json",           "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/hoe.json",           "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/hoe.json",           "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/helvehammer.json",   "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/helvehammer.json",   "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/helvehammer.json",   "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/helvehammer.json",   "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/spear-iron.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/spear-iron.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/spear-iron.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/spear-iron.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/6arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/6arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/6arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/6arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/9arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/9arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/9arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/9arrowhead.json",    "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" }
+]

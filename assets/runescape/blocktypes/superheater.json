@@ -1,0 +1,30 @@
+{
+	"code": "superheater",
+	"class": "Block",
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/metal/sheet-plain/adamantite3" },
+		"up": { "base": "game:block/coal/ember" }
+	},
+	"creativeinventory": { "general": ["*"], "decorative": ["*"] },
+	"blockmaterial": "Metal",
+	"replaceable": 300,
+	"resistance": 8,
+	"maxStackSize": 8,
+	"lightAbsorption": 0,
+	"glowLevel": 24,
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"attributes": {
+		"crucibleHeatBonus": 300
+	},
+	"sounds": {
+		"walk": "walk/stone",
+		"place": "block/anvil",
+		"break": "block/anvil"
+	},
+	"guiTransform": {
+		"origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+		"scale": 0.85
+	}
+}

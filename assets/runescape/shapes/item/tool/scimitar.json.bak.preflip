@@ -1,0 +1,67 @@
+{
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textures": {
+		"blade": "runescape:block/metal/ingot/dragon",
+		"handle": "game:block/wood/debarked/aged"
+	},
+	"elements": [
+		{
+			"name": "handle",
+			"from": [7.5, 1, 7.5],
+			"to": [8.5, 5, 8.5],
+			"rotationOrigin": [8, 8, 8],
+			"faces": {
+				"north": { "texture": "#handle", "uv": [7, 11, 8, 15] },
+				"east":  { "texture": "#handle", "uv": [7, 11, 8, 15] },
+				"south": { "texture": "#handle", "uv": [7, 11, 8, 15] },
+				"west":  { "texture": "#handle", "uv": [7, 11, 8, 15] },
+				"up":    { "texture": "#handle", "uv": [7, 11, 8, 12] },
+				"down":  { "texture": "#handle", "uv": [7, 11, 8, 12] }
+			}
+		},
+		{
+			"name": "guard",
+			"from": [6, 5, 7.5],
+			"to": [10, 6, 8.5],
+			"faces": {
+				"north": { "texture": "#blade", "uv": [4, 9, 8, 10] },
+				"east":  { "texture": "#blade", "uv": [7, 9, 8, 10] },
+				"south": { "texture": "#blade", "uv": [4, 9, 8, 10] },
+				"west":  { "texture": "#blade", "uv": [7, 9, 8, 10] },
+				"up":    { "texture": "#blade", "uv": [4, 9, 8, 10] },
+				"down":  { "texture": "#blade", "uv": [4, 9, 8, 10] }
+			}
+		},
+		{
+			"name": "bladeLow",
+			"from": [7, 6, 6.5],
+			"to": [9, 11, 9.5],
+			"rotationOrigin": [8, 6, 8],
+			"rotationZ": -8,
+			"faces": {
+				"north": { "texture": "#blade", "uv": [6, 5, 9, 10] },
+				"east":  { "texture": "#blade", "uv": [6, 5, 9, 10] },
+				"south": { "texture": "#blade", "uv": [6, 5, 9, 10] },
+				"west":  { "texture": "#blade", "uv": [6, 5, 9, 10] },
+				"up":    { "texture": "#blade", "uv": [6, 5, 9, 8] },
+				"down":  { "texture": "#blade", "uv": [6, 5, 9, 8] }
+			}
+		},
+		{
+			"name": "bladeHigh",
+			"from": [7, 11, 6.5],
+			"to": [9, 15, 9.5],
+			"rotationOrigin": [8, 11, 8],
+			"rotationZ": -22,
+			"faces": {
+				"north": { "texture": "#blade", "uv": [6, 1, 9, 5] },
+				"east":  { "texture": "#blade", "uv": [6, 1, 9, 5] },
+				"south": { "texture": "#blade", "uv": [6, 1, 9, 5] },
+				"west":  { "texture": "#blade", "uv": [6, 1, 9, 5] },
+				"up":    { "texture": "#blade", "uv": [6, 1, 9, 4] },
+				"down":  { "texture": "#blade", "uv": [6, 1, 9, 4] }
+			}
+		}
+	]
+}

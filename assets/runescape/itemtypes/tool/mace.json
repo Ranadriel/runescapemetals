@@ -1,0 +1,25 @@
+{
+	"code": "mace",
+	"tags": ["weapon", "weapon-melee"],
+	"damagedby": ["attacking"],
+	"variantgroups": [
+		{ "code": "metal", "states": ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	"shape": { "base": "runescape:item/tool/mace" },
+	"textures": {
+		"head": { "base": "runescape:block/metal/ingot/{metal}" },
+		"handle": { "base": "game:block/wood/debarked/aged" }
+	},
+	"attackpowerbytype": {
+		"mace-mithril": 7,
+		"mace-adamantite": 8,
+		"mace-runite": 9,
+		"mace-dragon": 11
+	},
+	"heldTpHitAnimation": "smithingwide",
+	"maxstacksize": 1,
+	"creativeinventory": { "general": ["*"], "items": ["*"], "tools": ["*"] },
+	"guiTransform": { "rotate": false, "translation":{"x":-21,"y":17,"z":0}, "rotation":{"x":0,"y":0,"z":-140}, "origin":{"x":0.61,"y":0,"z":0.47}, "scale":1.89 },
+	"tpHandTransform": { "translation":{"x":-0.375,"y":0,"z":-0.68}, "rotation":{"x":-180,"y":0,"z":-90}, "origin":{"x":0.5,"y":0,"z":0.5}, "scale":0.71 },
+	"groundTransform": { "translation":{"x":0,"y":0,"z":0}, "rotation":{"x":0,"y":0,"z":90}, "origin":{"x":0.5,"y":0.5,"z":0.5}, "scale":2.4 }
+}

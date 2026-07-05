@@ -1,0 +1,53 @@
+{
+	"code": "longbowu",
+	"variantgroups": [
+		{ "code": "wood", "states": ["common", "oak", "willow", "maple", "yew", "magic"] }
+	],
+	"maxstacksize": 8,
+	"shape": { "base": "game:item/tool/bow/long-stave" },
+	"texturesByType": {
+		"*-common": {
+			"aged":    { "base": "game:block/wood/debarked/pine" },
+			"bone":    { "base": "game:block/wood/debarked/pine" },
+			"leather": { "base": "game:block/wood/debarked/pine" }
+		},
+		"*-oak": {
+			"aged":    { "base": "game:block/wood/debarked/oak" },
+			"bone":    { "base": "game:block/wood/debarked/oak" },
+			"leather": { "base": "game:block/wood/debarked/oak" }
+		},
+		"*-willow": {
+			"aged":    { "base": "game:block/wood/debarked/baldcypress" },
+			"bone":    { "base": "game:block/wood/debarked/baldcypress" },
+			"leather": { "base": "game:block/wood/debarked/baldcypress" }
+		},
+		"*-maple": {
+			"aged":    { "base": "game:block/wood/debarked/maple" },
+			"bone":    { "base": "game:block/wood/debarked/maple" },
+			"leather": { "base": "game:block/wood/debarked/maple" }
+		},
+		"*-yew": {
+			"aged":    { "base": "game:block/wood/debarked/larch" },
+			"bone":    { "base": "game:block/wood/debarked/larch" },
+			"leather": { "base": "game:block/wood/debarked/larch" }
+		},
+		"*-magic": {
+			"aged":    { "base": "runescape:item/wood/magic" },
+			"bone":    { "base": "runescape:item/wood/magic" },
+			"leather": { "base": "runescape:item/wood/magic" }
+		}
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -135, "y": 25, "z": 41 },
+		"origin": { "x": 0.47, "y": 0, "z": 0.59 },
+		"scale": 1.35
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 4.8
+	}
+}

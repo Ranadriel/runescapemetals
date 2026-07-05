@@ -1,0 +1,25 @@
+{
+	"code": "battleaxe",
+	"tags": ["weapon", "weapon-melee", "weapon-axe"],
+	"damagedby": ["attacking"],
+	"variantgroups": [
+		{ "code": "metal", "states": ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	"shape": { "base": "runescape:item/tool/battleaxe" },
+	"textures": {
+		"head": { "base": "runescape:block/metal/ingot/{metal}" },
+		"handle": { "base": "game:block/wood/debarked/aged" }
+	},
+	"attackpowerbytype": {
+		"battleaxe-mithril": 9,
+		"battleaxe-adamantite": 10,
+		"battleaxe-runite": 11,
+		"battleaxe-dragon": 14
+	},
+	"heldTpHitAnimation": "axechop",
+	"maxstacksize": 1,
+	"creativeinventory": { "general": ["*"], "items": ["*"], "tools": ["*"] },
+	"guiTransform": { "rotate": false, "translation":{"x":3,"y":14,"z":0}, "rotation":{"x":39,"y":-89,"z":-90}, "origin":{"x":0.61,"y":0,"z":0.47}, "scale":1.76 },
+	"tpHandTransform": { "translation":{"x":-0.5,"y":0,"z":-0.675}, "rotation":{"x":90,"y":0,"z":-90}, "origin":{"x":0.5,"y":0,"z":0.5}, "scale":0.71 },
+	"groundTransform": { "translation":{"x":0,"y":0,"z":0}, "rotation":{"x":0,"y":0,"z":90}, "origin":{"x":0.5,"y":0.5,"z":0.5}, "scale":2.5 }
+}

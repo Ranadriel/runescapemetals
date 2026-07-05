@@ -1,0 +1,6 @@
+[
+	{ "file": "game:itemtypes/tool/crowbar.json", "op": "add", "path": "/durabilitybytype/*-mithril",    "value": 2070 },
+	{ "file": "game:itemtypes/tool/crowbar.json", "op": "add", "path": "/durabilitybytype/*-adamantite", "value": 2340 },
+	{ "file": "game:itemtypes/tool/crowbar.json", "op": "add", "path": "/durabilitybytype/*-runite",     "value": 2700 },
+	{ "file": "game:itemtypes/tool/crowbar.json", "op": "add", "path": "/durabilitybytype/*-dragon",     "value": 3150 }
+]

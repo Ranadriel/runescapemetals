@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "RPR,CPC,RPR",
+	"ingredients": {
+		"R": { "type": "item", "code": "game:rod-adamantite" },
+		"P": { "type": "item", "code": "game:metalplate-adamantite" },
+		"C": { "type": "block", "code": "game:crucible-*-fired", "name": "color", "quantity": 2 }
+	},
+	"name": "crucible-adamantite",
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "runescape:crucible-adamantite-fired", "quantity": 1 }
+}

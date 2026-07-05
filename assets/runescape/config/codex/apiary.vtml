@@ -1,0 +1,18 @@
+<strong>Wooden Skep Apiary — permanent beekeeping</strong>
+
+The Catherby model. A permanent hive: harvest never destroys it; breaking always returns the empty apiary.
+
+<strong>States</strong>
+Empty → colonised → dripping.
+
+<strong>Seeding</strong>
+Right-click with a populated reed skep (the woven skep is returned empty). The colony transplants into the apiary.
+
+<strong>Harvest</strong>
+Right-click when dripping → 2–4 honeycomb. Colony persists; re-ripens ~1.5–5.5 game days.
+
+<strong>Flower gate</strong>
+Needs 3+ bee-feed plants within 8 blocks. Rich meadows ripen up to 3× faster. Block info shows flower count and time remaining.
+
+<strong>Recipe</strong>
+Planks / 3 honeycombs / planks, with iron+ nails-and-strips.

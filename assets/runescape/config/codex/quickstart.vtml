@@ -1,0 +1,13 @@
+<strong>Quick start — smelt to smith in five moves</strong>
+
+1. Mine ore with the appropriate pickaxe tier (see <a href="metals">Metals ladder</a> for who mines what).
+2. Build a tipper <a href="crucible">crucible</a> at the next tier up to melt the ore.
+3. Move melt between crucibles with the <a href="scoop">magma scoop</a> — the ONLY way to transport molten metal.
+4. Cast into an ingot mold; smith at the anvil into tools, weapons, and armor.
+5. For lamellar armor: cast lamellae from molten metal — see <a href="lamellae">Lamellae &amp; casting</a>.
+
+<strong>First run: the bootstrap ladder</strong>
+Clay crucible → first mithril ingots → mithril tools → smelt and smith the adamantite shell → first adamantite crucible. Each tier depends on the tier below it — the ladder is strictly sequential, but never dead-ends.
+
+<strong>Recipes not showing up?</strong>
+Recipes are gated on already having the metal. See the "Bootstrap caveat" in <a href="smithing">Smithing</a>.

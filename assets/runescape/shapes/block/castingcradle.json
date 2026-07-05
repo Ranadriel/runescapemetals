@@ -1,0 +1,196 @@
+{
+	"textureWidth": 32,
+	"textureHeight": 32,
+	"textures": {
+		"metal": "runescape:block/castingcradle"
+	},
+	"elements": [
+		{
+			"name": "plinth",
+			"from": [
+				1.0,
+				0.0,
+				1.0
+			],
+			"to": [
+				15.0,
+				5.0,
+				15.0
+			],
+			"rotationOrigin": [
+				8.0,
+				0.0,
+				8.0
+			],
+			"faces": {
+				"north": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						10.0
+					]
+				},
+				"east": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						10.0
+					]
+				},
+				"south": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						10.0
+					]
+				},
+				"west": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						10.0
+					]
+				},
+				"up": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						28.0
+					]
+				},
+				"down": {
+					"texture": "#metal",
+					"uv": [
+						0.0,
+						0.0,
+						28.0,
+						28.0
+					]
+				}
+			},
+			"children": [
+				{
+					"name": "basin",
+					"from": [
+						1.0,
+						5.0,
+						1.0
+					],
+					"to": [
+						13.0,
+						12.0,
+						13.0
+					],
+					"rotationOrigin": [
+						7.0,
+						5.0,
+						1.0
+					],
+					"faces": {
+						"north": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								14.0
+							]
+						},
+						"east": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								14.0
+							]
+						},
+						"south": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								14.0
+							]
+						},
+						"west": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								14.0
+							]
+						},
+						"up": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								24.0
+							]
+						},
+						"down": {
+							"texture": "#metal",
+							"uv": [
+								0.0,
+								0.0,
+								24.0,
+								24.0
+							]
+						}
+					}
+				}
+			]
+		}
+	],
+	"animations": [
+		{
+			"name": "Tip",
+			"code": "tip",
+			"quantityframes": 32,
+			"onActivityStopped": "Rewind",
+			"onAnimationEnd": "Hold",
+			"keyframes": [
+				{
+					"frame": 0,
+					"elements": {
+						"basin": {
+							"rotationX": 0.0,
+							"tween": {
+								"easing": "easeInOut"
+							},
+							"rotationY": 0.0,
+							"rotationZ": 0.0
+						}
+					}
+				},
+				{
+					"frame": 10,
+					"elements": {
+						"basin": {
+							"rotationX": -110.0,
+							"tween": {
+								"easing": "easeInOut"
+							},
+							"rotationY": 0.0,
+							"rotationZ": 0.0
+						}
+					}
+				}
+			]
+		}
+	]
+}

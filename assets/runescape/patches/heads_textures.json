@@ -1,0 +1,21 @@
+[
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/texturesByType/@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)",
+		"value": { "material": { "base": "runescape:block/metal/ingot/{material}" }, "string": { "base": "block/transparent" }, "handle": { "base": "block/transparent" } }
+	},
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/texturesByType/@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)",
+		"value": { "material": { "base": "runescape:block/metal/ingot/{material}" } }
+	},
+
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/texturesByType/@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)",
+		"value": { "material": { "base": "runescape:block/metal/ingot/{material}" }, "string": { "base": "block/transparent" }, "handle": { "base": "block/transparent" } }
+	},
+
+	{ "file": "game:itemtypes/toolhead/spearhead.json", "op": "add", "path": "/texturesByType/@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)",
+		"value": { "meteoriciron": { "base": "runescape:block/metal/ingot/{material}" }, "string": { "base": "block/transparent" }, "handle": { "base": "block/transparent" } }
+	},
+
+	{ "file": "game:itemtypes/toolhead/arrowhead.json", "op": "add", "path": "/texturesByType/@(.*-mithril|.*-adamantite|.*-runite|.*-dragon)",
+		"value": { "material": { "base": "runescape:block/metal/ingot/{material}" } }
+	}
+]

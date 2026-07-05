@@ -1,0 +1,15 @@
+{
+	"ingredientPattern": "B_B,BBB",
+	"ingredients": {
+		"B": {
+			"type": "item",
+			"code": "game:bracket-heavy-*",
+			"name": "tier",
+			"allowedVariants": ["iron", "meteoriciron", "steel", "mithril", "adamantite", "runite", "dragon"]
+		}
+	},
+	"name": "launder",
+	"width": 3,
+	"height": 2,
+	"output": { "type": "block", "code": "runescape:launder-ns", "quantity": 1 }
+}

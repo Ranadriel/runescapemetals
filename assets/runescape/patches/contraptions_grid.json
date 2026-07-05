@@ -1,0 +1,434 @@
+[
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/6/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/6/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/6/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/6/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/7/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/7/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/7/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/lantern.json",
+		"op": "add",
+		"path": "/7/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/chest.json",
+		"op": "add",
+		"path": "/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/chest.json",
+		"op": "add",
+		"path": "/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/chest.json",
+		"op": "add",
+		"path": "/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/chest.json",
+		"op": "add",
+		"path": "/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/0/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/1/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/2/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/3/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/4/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/cabinet.json",
+		"op": "add",
+		"path": "/5/allowedVariants/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/helvehammer.json",
+		"op": "add",
+		"path": "/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/helvehammer.json",
+		"op": "add",
+		"path": "/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/helvehammer.json",
+		"op": "add",
+		"path": "/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/helvehammer.json",
+		"op": "add",
+		"path": "/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/0/ingredients/G/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/0/ingredients/G/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/0/ingredients/G/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/0/ingredients/G/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/1/ingredients/R/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/1/ingredients/R/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/1/ingredients/R/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/metalplaque.json",
+		"op": "add",
+		"path": "/1/ingredients/R/allowedVariants/-",
+		"value": "dragon"
+	}
+]

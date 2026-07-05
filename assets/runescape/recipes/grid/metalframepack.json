@@ -1,0 +1,114 @@
+[
+ {
+  "ingredientPattern": "_P_,LBL,_R_",
+  "ingredients": {
+   "P": {
+    "type": "item",
+    "code": "game:metalplate-mithril"
+   },
+   "L": {
+    "type": "item",
+    "code": "game:leather-normal-plain"
+   },
+   "B": {
+    "type": "item",
+    "code": "game:backpack-normal"
+   },
+   "R": {
+    "type": "item",
+    "code": "game:rod-mithril"
+   }
+  },
+  "name": "metalframepack-mithril",
+  "width": 3,
+  "height": 3,
+  "output": {
+   "type": "item",
+   "code": "runescape:metalframepack-mithril"
+  }
+ },
+ {
+  "ingredientPattern": "_P_,LBL,_R_",
+  "ingredients": {
+   "P": {
+    "type": "item",
+    "code": "game:metalplate-adamantite"
+   },
+   "L": {
+    "type": "item",
+    "code": "game:leather-normal-plain"
+   },
+   "B": {
+    "type": "item",
+    "code": "runescape:metalframepack-mithril"
+   },
+   "R": {
+    "type": "item",
+    "code": "game:rod-adamantite"
+   }
+  },
+  "name": "metalframepack-adamantite",
+  "width": 3,
+  "height": 3,
+  "output": {
+   "type": "item",
+   "code": "runescape:metalframepack-adamantite"
+  }
+ },
+ {
+  "ingredientPattern": "_P_,LBL,_R_",
+  "ingredients": {
+   "P": {
+    "type": "item",
+    "code": "game:metalplate-runite"
+   },
+   "L": {
+    "type": "item",
+    "code": "game:leather-normal-plain"
+   },
+   "B": {
+    "type": "item",
+    "code": "runescape:metalframepack-adamantite"
+   },
+   "R": {
+    "type": "item",
+    "code": "game:rod-runite"
+   }
+  },
+  "name": "metalframepack-runite",
+  "width": 3,
+  "height": 3,
+  "output": {
+   "type": "item",
+   "code": "runescape:metalframepack-runite"
+  }
+ },
+ {
+  "ingredientPattern": "_P_,LBL,_R_",
+  "ingredients": {
+   "P": {
+    "type": "item",
+    "code": "game:metalplate-dragon"
+   },
+   "L": {
+    "type": "item",
+    "code": "game:leather-normal-plain"
+   },
+   "B": {
+    "type": "item",
+    "code": "runescape:metalframepack-runite"
+   },
+   "R": {
+    "type": "item",
+    "code": "game:rod-dragon"
+   }
+  },
+  "name": "metalframepack-dragon",
+  "width": 3,
+  "height": 3,
+  "output": {
+   "type": "item",
+   "code": "runescape:metalframepack-dragon"
+  }
+ }
+]

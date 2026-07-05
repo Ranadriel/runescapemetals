@@ -1,0 +1,10 @@
+{
+	"ingredientPattern": "KK_,K__,K__",
+	"ingredients": {
+		"K": { "type": "item", "code": "game:knifeblade-*", "name": "metal", "allowedVariants": ["mithril", "adamantite", "runite", "dragon"] }
+	},
+	"name": "metalclaws",
+	"width": 3,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:metalclaws-{metal}" }
+}

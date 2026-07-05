@@ -1,0 +1,76 @@
+[
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/variantgroups/2/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/variantgroups/2/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/variantgroups/2/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/variantgroups/2/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/resource/metalchain.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/resource/metalchain.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/resource/metalchain.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/resource/metalchain.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/resource/metalscale.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/resource/metalscale.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/resource/metalscale.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/resource/metalscale.json",   "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-brigandine-mithril",    "value": { "base": "entity/humanoid/seraph/armor/brigandine/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-brigandine-adamantite", "value": { "base": "entity/humanoid/seraph/armor/brigandine/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-brigandine-runite",     "value": { "base": "entity/humanoid/seraph/armor/brigandine/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-brigandine-dragon",     "value": { "base": "entity/humanoid/seraph/armor/brigandine/head-steel" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-chain-mithril",    "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-chain-adamantite", "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-chain-runite",     "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-chain-dragon",     "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-scale-mithril",    "value": { "base": "entity/humanoid/seraph/armor/scale/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-scale-adamantite", "value": { "base": "entity/humanoid/seraph/armor/scale/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-scale-runite",     "value": { "base": "entity/humanoid/seraph/armor/scale/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-scale-dragon",     "value": { "base": "entity/humanoid/seraph/armor/scale/head-steel" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-plate-mithril",    "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-plate-adamantite", "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-plate-runite",     "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-plate-dragon",     "value": { "base": "entity/humanoid/seraph/armor/plate/head-steel" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-brigandine-mithril",    "value": { "relativeProtection": 0.966, "flatDamageReduction": 1.5, "protectionTier": 6 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-brigandine-adamantite", "value": { "relativeProtection": 0.99,  "flatDamageReduction": 1.7, "protectionTier": 7 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-brigandine-runite",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.0, "protectionTier": 8 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-brigandine-dragon",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.3, "protectionTier": 9 } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-chain-mithril",    "value": { "relativeProtection": 0.989, "flatDamageReduction": 1.6, "protectionTier": 6 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-chain-adamantite", "value": { "relativeProtection": 0.99,  "flatDamageReduction": 1.8, "protectionTier": 7 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-chain-runite",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.1, "protectionTier": 8 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-chain-dragon",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.5, "protectionTier": 9 } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-scale-mithril",    "value": { "relativeProtection": 0.99, "flatDamageReduction": 1.8, "protectionTier": 6 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-scale-adamantite", "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.1, "protectionTier": 7 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-scale-runite",     "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.4, "protectionTier": 8 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-scale-dragon",     "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.8, "protectionTier": 9 } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-plate-mithril",    "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.1, "highDamageTierResistant": true, "protectionTier": 6 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-plate-adamantite", "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.3, "highDamageTierResistant": true, "protectionTier": 7 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-plate-runite",     "value": { "relativeProtection": 0.99, "flatDamageReduction": 2.7, "highDamageTierResistant": true, "protectionTier": 8 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-plate-dragon",     "value": { "relativeProtection": 0.99, "flatDamageReduction": 3.2, "highDamageTierResistant": true, "protectionTier": 9 } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-brigandine-mithril",    "value": 2990 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-brigandine-adamantite", "value": 3380 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-brigandine-runite",     "value": 3900 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-brigandine-dragon",     "value": 4550 },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-chain-mithril",    "value": 2300 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-chain-adamantite", "value": 2600 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-chain-runite",     "value": 3000 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-chain-dragon",     "value": 3500 },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-scale-mithril",    "value": 4025 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-scale-adamantite", "value": 4550 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-scale-runite",     "value": 5250 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-scale-dragon",     "value": 6125 },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-plate-mithril",    "value": 6325 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-plate-adamantite", "value": 7150 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-plate-runite",     "value": 8250 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-plate-dragon",     "value": 9625 }
+]

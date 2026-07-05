@@ -1,0 +1,170 @@
+[
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-granite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-granite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-basalt-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-basalt-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-andesite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-andesite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-peridotite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-peridotite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-slate-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-mithril-slate-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-granite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-granite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-peridotite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-peridotite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-kimberlite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-kimberlite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-basalt-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-adamantite-basalt-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-peridotite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-peridotite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-kimberlite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-kimberlite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-basalt-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-runite-basalt-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-dragon-kimberlite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-dragon-kimberlite-snow"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-dragon-peridotite-free"
+  },
+  {
+    "file": "game:blocktypes/stone/looseores.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "looseores-dragon-peridotite-snow"
+  }
+]

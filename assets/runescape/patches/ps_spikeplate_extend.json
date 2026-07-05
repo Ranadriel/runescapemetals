@@ -1,0 +1,102 @@
+[
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/attributes/reinforcementStrengthByType",
+		"value": {
+			"*-mithril":    1380,
+			"*-adamantite": 1560,
+			"*-runite":     1800,
+			"*-dragon":     2100
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/materialDensityByType",
+		"value": {
+			"*-mithril":    5500,
+			"*-adamantite": 6000,
+			"*-runite":     6500,
+			"*-dragon":     7500
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/combustiblePropsByType",
+		"value": {
+			"spikeplate-mithril": {
+				"meltingPoint": 1727,
+				"meltingDuration": 34.5,
+				"smeltedRatio": 8,
+				"smeltedStack": { "type": "item", "code": "ingot-mithril" }
+			},
+			"spikeplate-adamantite": {
+				"meltingPoint": 1953,
+				"meltingDuration": 39.0,
+				"smeltedRatio": 8,
+				"smeltedStack": { "type": "item", "code": "ingot-adamantite" }
+			},
+			"spikeplate-runite": {
+				"meltingPoint": 2253,
+				"meltingDuration": 45.0,
+				"smeltedRatio": 8,
+				"smeltedStack": { "type": "item", "code": "ingot-runite" }
+			},
+			"spikeplate-dragon": {
+				"meltingPoint": 2629,
+				"meltingDuration": 52.5,
+				"smeltedRatio": 8,
+				"smeltedStack": { "type": "item", "code": "ingot-dragon" }
+			}
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:blocktypes/trap/spikeplate.json",
+		"path": "/texturesByType",
+		"value": {
+			"spikeplate-mithril":    { "metal": { "base": "runescape:block/metal/ingot/mithril" } },
+			"spikeplate-adamantite": { "metal": { "base": "runescape:block/metal/ingot/adamantite" } },
+			"spikeplate-runite":     { "metal": { "base": "runescape:block/metal/ingot/runite" } },
+			"spikeplate-dragon":     { "metal": { "base": "runescape:block/metal/ingot/dragon" } }
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	}
+]

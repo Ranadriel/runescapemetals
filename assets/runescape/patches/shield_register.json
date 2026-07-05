@@ -1,0 +1,98 @@
+[
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetal/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetal/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetal/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetal/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetalleather/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetalleather/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetalleather/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-woodmetalleather/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-metal/metal/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-metal/metal/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-metal/metal/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/variantGroupsByType/shield-metal/metal/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/durabilityGains/metal/mithril",
+		"value": 160
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/durabilityGains/metal/adamantite",
+		"value": 220
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/durabilityGains/metal/runite",
+		"value": 290
+	},
+	{
+		"file": "game:itemtypes/tool/roundshield.json",
+		"op": "add",
+		"path": "/attributes/durabilityGains/metal/dragon",
+		"value": 380
+	}
+]

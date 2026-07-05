@@ -1,0 +1,16 @@
+[
+	{ "file": "game:recipes/smithing/plate.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/plate.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/plate.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/plate.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/chain.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/chain.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/chain.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/chain.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/scale.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/scale.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/scale.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/scale.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" }
+]

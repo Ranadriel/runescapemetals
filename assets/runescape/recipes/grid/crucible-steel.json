@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "RPR,CPC,RPR",
+	"ingredients": {
+		"R": { "type": "item", "code": "game:rod-steel" },
+		"P": { "type": "item", "code": "game:metalplate-steel" },
+		"C": { "type": "block", "code": "game:crucible-*-fired", "name": "color", "quantity": 2 }
+	},
+	"name": "crucible-steel",
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "runescape:crucible-steel-fired", "quantity": 1 }
+}

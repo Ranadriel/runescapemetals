@@ -1,0 +1,17 @@
+<strong>Superheater</strong>
+
+A block placed against any large <a href="crucible">crucible</a>'s base. Adds <strong>+300°C</strong> to that crucible's temperature ceiling.
+
+<strong>Effect by crucible</strong>
+• Steel crucible → reaches mithril temperature.
+• Adamantite crucible → reaches runite (the ladder's previously-missing bulk option).
+• Dragon crucible → no effect; already at max.
+
+<strong>Does not stack</strong>
+The strongest single neighboring superheater counts; a wall of them contributes only one.
+
+<strong>Recipe</strong>
+Adamantite plates + rods around a magma scoop.
+
+<strong>In world</strong>
+The attached crucible's block-info shows "Superheater attached: +300°C".

@@ -1,0 +1,20 @@
+{
+	"code": "bf_chimney",
+	"class": "BlockMultiblockPart",
+	"entityClass": "BEMultiblockPart",
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/bf_chimney" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 5,
+	"materialDensity": 4000,
+	"blockmaterial": "Metal",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

@@ -1,0 +1,50 @@
+[
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/shapeByType/anvil-mithril",    "value": { "base": "block/metal/anvil/iron" } },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/shapeByType/anvil-adamantite", "value": { "base": "block/metal/anvil/iron" } },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/shapeByType/anvil-runite",     "value": { "base": "block/metal/anvil/iron" } },
+	{ "file": "game:blocktypes/metal/anvil.json",     "op": "add", "path": "/shapeByType/anvil-dragon",     "value": { "base": "block/metal/anvil/iron" } },
+
+	{ "file": "game:blocktypes/metal/anvilpart.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "mithril" },
+	{ "file": "game:blocktypes/metal/anvilpart.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "adamantite" },
+	{ "file": "game:blocktypes/metal/anvilpart.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "runite" },
+	{ "file": "game:blocktypes/metal/anvilpart.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/anvilbase.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/anvilbase.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/anvilbase.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/anvilbase.json", "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/smithing/anviltop.json",  "op": "add", "path": "/ingredient/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/smithing/anviltop.json",  "op": "add", "path": "/ingredient/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/smithing/anviltop.json",  "op": "add", "path": "/ingredient/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/smithing/anviltop.json",  "op": "add", "path": "/ingredient/allowedVariants/-", "value": "dragon" },
+
+	{
+		"file": "game:blocktypes/metal/anvil.json",
+		"op": "add",
+		"path": "/texturesByType",
+		"value": {
+			"anvil-mithril":    { "all": { "base": "runescape:block/metal/anvil/mithril" } },
+			"anvil-adamantite": { "all": { "base": "runescape:block/metal/anvil/adamantite" } },
+			"anvil-runite":     { "all": { "base": "runescape:block/metal/anvil/runite" } },
+			"anvil-dragon":     { "all": { "base": "runescape:block/metal/anvil/dragon" } }
+		}
+	},
+
+	{
+		"file": "game:blocktypes/metal/anvilpart.json",
+		"op": "add",
+		"path": "/texturesByType",
+		"value": {
+			"anvilpart-*-mithril":    { "metal": { "base": "runescape:block/metal/anvil/mithril" } },
+			"anvilpart-*-adamantite": { "metal": { "base": "runescape:block/metal/anvil/adamantite" } },
+			"anvilpart-*-runite":     { "metal": { "base": "runescape:block/metal/anvil/runite" } },
+			"anvilpart-*-dragon":     { "metal": { "base": "runescape:block/metal/anvil/dragon" } }
+		}
+	}
+]

@@ -1,0 +1,12 @@
+{
+	"ingredientPattern": "R,M,S",
+	"ingredients": {
+		"R": { "type": "item", "code": "game:rope" },
+		"M": { "type": "item", "code": "game:metalnailsandstrips-*", "name": "tier", "allowedVariants": ["copper", "tinbronze", "iron", "steel", "mithril", "adamantite", "runite"] },
+		"S": { "type": "item", "code": "game:stick" }
+	},
+	"name": "birdsnare",
+	"width": 1,
+	"height": 3,
+	"output": { "type": "block", "code": "runescape:birdsnare-{tier}", "quantity": 4 }
+}

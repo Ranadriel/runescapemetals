@@ -1,0 +1,21 @@
+<strong>Tier-scaled harvest tools (post-steel)</strong>
+
+New in 1.0.3. Four tiers past steel scale a per-tool special ability. Vanilla behavior preserved for copper..steel; higher tiers subclass and register per-tier.
+
+<strong>Scythe</strong> — swing radius grows 1 block per tier.
+Steel/copper 3×3×3 → 5 blocks; mithril 5×5×5 → 10; adamantite 7×7×7 → 15; runite 9×9×9 → 20; dragon 11×11×11 → 25. Nearest-first sort so small patches read naturally.
+
+<strong>Hoe</strong> — Harvest Moon convention: cardinal-forward line of tiles from the target.
+Copper..steel = 1 tile (vanilla). Mithril = 2, adamantite = 3, runite = 4, dragon = 5. Cardinal-snapped from player yaw. Non-soil tiles skip without draining durability.
+
+<strong>Shears</strong> — same TierRadius as scythe applied to shears' 3D cube scan. Only plant material qualifies (vanilla ItemShears rules).
+
+<strong>Axe (yield-decay curve)</strong>
+Vanilla trees already fall in one swing; tier scaling operates on the leaf/branchy yield-decay curve during felling.
+Copper..steel: leaves 0.85 × / block, branchy 0.70 × / block.
+Mithril: 0.88 / 0.775. Adamantite: 0.91 / 0.85. Runite: 0.94 / 0.925.
+<strong>Dragon: 1.00 / 1.00</strong> — no decay at all. A huge magic tree gives every sapling and every stick at full quantity.
+
+<strong>Curve rescale (1.0.3)</strong>
+Attack power moved from ×1.15/×1.30/×1.50/×1.75 to steel × 1.25ⁿ:
+mithril 5.00, adamantite 6.25, runite 7.81, dragon 9.77. Also fixes the old runite &lt; adamantite typo.

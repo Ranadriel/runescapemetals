@@ -1,0 +1,13 @@
+[
+	{
+		"file": "game:itemtypes/resource/ironbloom.json",
+		"op": "add",
+		"path": "/combustibleProps",
+		"value": {
+			"meltingPoint": 1482,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltedStack": { "type": "item", "code": "game:ingot-iron" }
+		}
+	}
+]

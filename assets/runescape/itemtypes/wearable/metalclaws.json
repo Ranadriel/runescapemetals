@@ -1,0 +1,84 @@
+{
+	"code": "metalclaws",
+	"variantgroups": [
+		{ "code": "metal", "states": ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	"storageFlags": 128,
+	"behaviors": [
+		{ "name": "Wearable" }
+	],
+	"attributes": {
+		"clothescategory": "hand",
+		"wearableAttachment": true,
+		"statModifiersByType": {
+			"metalclaws-mithril":    { "meleeWeaponsDamage": 5 },
+			"metalclaws-adamantite": { "meleeWeaponsDamage": 6.5 },
+			"metalclaws-runite":     { "meleeWeaponsDamage": 8 },
+			"metalclaws-dragon":     { "meleeWeaponsDamage": 10 }
+		}
+	},
+	"shapeByType": {
+		"metalclaws-dragon": { "base": "game:item/tool/blade/falx" },
+		"*":                 { "base": "game:entity/humanoid/seraph/clothing/hand/gloves4824" }
+	},
+	"texturesByType": {
+		"metalclaws-mithril":    { "seraph": { "base": "game:block/transparent" }, "gloves": { "base": "runescape:block/metal/ingot/mithril" } },
+		"metalclaws-adamantite": { "seraph": { "base": "game:block/transparent" }, "gloves": { "base": "runescape:block/metal/ingot/adamantite" } },
+		"metalclaws-runite":     { "seraph": { "base": "game:block/transparent" }, "gloves": { "base": "runescape:block/metal/ingot/runite" } },
+		"metalclaws-dragon":     {
+			"falxstring": { "base": "game:block/transparent" },
+			"thongs":     { "base": "game:block/transparent" },
+			"woodguard":  { "base": "game:block/transparent" },
+			"handle":     { "base": "game:block/transparent" },
+			"falxblade":  { "base": "runescape:block/metal/ingot/dragon" },
+			"cloth":      { "base": "game:block/transparent" },
+			"handguard":  { "base": "runescape:block/metal/ingot/dragon" },
+			"spinerivet": { "base": "runescape:block/metal/ingot/dragon" },
+			"pips":       { "base": "game:block/transparent" }
+		}
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"], "clothing": ["*"] },
+	"renderAlphaTest": 0.25,
+	"tpHandTransformByType": {
+		"metalclaws-dragon": {
+			"translation": { "x": -0.6, "y": -0.4, "z": -0.4 },
+			"rotation":    { "x": -13, "y": -64, "z": 49 },
+			"scale":       0.22
+		},
+		"*": {
+			"translation": { "x": -0.9, "y": -1, "z": -1 },
+			"rotation":    { "x": -13, "y": -64, "z": 49 },
+			"scale":       0.55
+		}
+	},
+	"guiTransformByType": {
+		"metalclaws-dragon": {
+			"rotate":      false,
+			"translation": { "x": 0, "y": 0, "z": 19 },
+			"rotation":    { "x": 174, "y": -30, "z": 23 },
+			"origin":      { "x": 0.52, "y": 0.78, "z": 0.5 },
+			"scale":       1.0
+		},
+		"*": {
+			"rotate":      false,
+			"translation": { "x": 0, "y": 0, "z": 19 },
+			"rotation":    { "x": 174, "y": -30, "z": 23 },
+			"origin":      { "x": 0.52, "y": 0.78, "z": 0.5 },
+			"scale":       2.5
+		}
+	},
+	"groundTransformByType": {
+		"metalclaws-dragon": {
+			"translation": { "x": 0, "y": 0.05, "z": 0 },
+			"rotation":    { "x": 0, "y": 0, "z": 90 },
+			"origin":      { "x": 0.5, "y": 0.5, "z": 0.5299 },
+			"scale":       2.0
+		},
+		"*": {
+			"translation": { "x": 0, "y": 0.05, "z": 0 },
+			"rotation":    { "x": 0, "y": 0, "z": 90 },
+			"origin":      { "x": 0.5, "y": 0.5, "z": 0.5299 },
+			"scale":       5
+		}
+	}
+}

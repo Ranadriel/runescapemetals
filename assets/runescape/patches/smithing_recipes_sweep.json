@@ -1,0 +1,866 @@
+[
+ {
+  "file": "game:recipes/smithing/6arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/6arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/6arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/6arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/9arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/9arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/9arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/9arrowhead.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/anvilbase.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/anvilbase.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/anvilbase.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/anvilbase.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/anviltop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/anviltop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/anviltop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/anviltop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/axe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/axe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/axe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/axe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/blade-falx.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/blade-falx.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/blade-falx.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/blade-falx.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/blade-short.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/blade-short.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/blade-short.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/blade-short.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/boss.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/boss.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/boss.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/boss.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/bracket.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/bracket.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/bracket.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/bracket.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/chain.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/chain.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/chain.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/chain.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/chisel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/chisel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/chisel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/chisel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/cleaver.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/cleaver.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/cleaver.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/cleaver.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/crowbar.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/crowbar.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/crowbar.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/crowbar.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/hammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/hammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/hammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/hammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/helvehammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/helvehammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/helvehammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/helvehammer.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/hoe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/hoe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/hoe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/hoe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/hoop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/hoop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/hoop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/hoop.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/hub-metal.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/hub-metal.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/hub-metal.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/hub-metal.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/knife.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/knife.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/knife.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/knife.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/0/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/0/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/0/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/0/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/1/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/1/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/1/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/nails.json",
+  "op": "add",
+  "path": "/1/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/padlock.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/padlock.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/padlock.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/padlock.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/pickaxe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/pickaxe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/pickaxe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/pickaxe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/plate.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/plate.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/plate.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/plate.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/poundercap.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/poundercap.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/poundercap.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/poundercap.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/prospectingpick.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/prospectingpick.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/prospectingpick.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/prospectingpick.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/punchset.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/punchset.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/punchset.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/punchset.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/rod.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/rod.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/rod.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/rod.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/saw.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/saw.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/saw.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/saw.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/scale.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/scale.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/scale.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/scale.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/scythe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/scythe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/scythe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/scythe.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/shears.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/shears.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/shears.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/shears.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/shovel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/shovel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/shovel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/shovel.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/spear-iron.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/spear-iron.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/spear-iron.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/spear-iron.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/tongs.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/tongs.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/tongs.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/tongs.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ },
+ {
+  "file": "game:recipes/smithing/wrench.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "mithril"
+ },
+ {
+  "file": "game:recipes/smithing/wrench.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "adamantite"
+ },
+ {
+  "file": "game:recipes/smithing/wrench.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "runite"
+ },
+ {
+  "file": "game:recipes/smithing/wrench.json",
+  "op": "add",
+  "path": "/ingredient/allowedVariants/-",
+  "value": "dragon"
+ }
+]

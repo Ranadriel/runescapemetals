@@ -1,0 +1,20 @@
+{
+	"code": "af_lid",
+	"class": "BlockMultiblockPart",
+	"entityClass": "BEMultiblockPart",
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/af_lid" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 7,
+	"materialDensity": 4500,
+	"blockmaterial": "Metal",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

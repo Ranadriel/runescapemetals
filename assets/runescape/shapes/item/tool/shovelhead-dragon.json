@@ -1,0 +1,1481 @@
+{
+  "editor": {
+    "allAngles": false,
+    "entityTextureMode": false
+  },
+  "textureWidth": 16,
+  "textureHeight": 16,
+  "textureSizes": {},
+  "textures": {
+    "material": "runescape:block/metal/ingot/dragon"
+  },
+  "elements": [
+    {
+      "name": "SocketD",
+      "from": [
+        7.0,
+        -0.1,
+        7.4
+      ],
+      "to": [
+        9.0,
+        0.4,
+        9.4
+      ],
+      "rotationOrigin": [
+        7.0,
+        -0.1,
+        7.4
+      ],
+      "faces": {
+        "north": {
+          "texture": "#material",
+          "uv": [
+            7.0,
+            3.0,
+            9.0,
+            3.5
+          ],
+          "windMode": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "enabled": false
+        },
+        "east": {
+          "texture": "#material",
+          "uv": [
+            1.0,
+            2.0,
+            3.0,
+            2.5
+          ],
+          "windMode": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "enabled": false
+        },
+        "south": {
+          "texture": "#material",
+          "uv": [
+            6.0,
+            4.0,
+            8.0,
+            4.5
+          ],
+          "windMode": [
+            -1,
+            -1,
+            -1,
+            -1
+          ],
+          "enabled": false
+        },
+        "west": {
+          "texture": "#material",
+          "uv": [
+            6.0,
+            2.0,
+            8.0,
+            2.5
+          ]
+        },
+        "up": {
+          "texture": "#material",
+          "uv": [
+            11.0,
+            3.5,
+            13.0,
+            5.5
+          ],
+          "rotation": 90
+        },
+        "down": {
+          "texture": "#material",
+          "uv": [
+            4.0,
+            3.0,
+            6.0,
+            5.0
+          ]
+        }
+      },
+      "children": [
+        {
+          "name": "Blade",
+          "from": [
+            1.0,
+            0.4,
+            -1.95
+          ],
+          "to": [
+            6.5,
+            0.9,
+            1.05
+          ],
+          "rotationOrigin": [
+            2.5,
+            0.4,
+            1.0
+          ],
+          "rotationX": 18.0,
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                7.0,
+                3.0,
+                12.5,
+                3.5
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                8.5,
+                3.5,
+                11.5,
+                4.0
+              ]
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                5.0,
+                6.0,
+                10.5,
+                6.5
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                2.0,
+                6.0,
+                5.0,
+                6.5
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                0.5,
+                5.5,
+                6.0,
+                8.5
+              ],
+              "rotation": 180
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                4.5,
+                8.5,
+                10.0,
+                11.5
+              ]
+            }
+          },
+          "children": [
+            {
+              "name": "Blade13",
+              "from": [
+                5.5,
+                0.0,
+                0.5
+              ],
+              "to": [
+                6.0,
+                0.5,
+                3.0
+              ],
+              "rotationOrigin": [
+                5.5,
+                0.0,
+                3.2
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    8.5,
+                    1.5,
+                    9.0
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    9.0,
+                    3.0,
+                    11.5,
+                    3.5
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    7.0,
+                    2.5,
+                    7.5
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    4.5,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    5.5,
+                    7.5,
+                    8.0,
+                    8.0
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    3.5,
+                    6.0,
+                    4.0,
+                    8.5
+                  ]
+                }
+              }
+            },
+            {
+              "name": "Blade16",
+              "from": [
+                6.0,
+                0.0,
+                1.5
+              ],
+              "to": [
+                6.5,
+                0.5,
+                3.0
+              ],
+              "rotationOrigin": [
+                6.0,
+                0.0,
+                3.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    8.5,
+                    1.5,
+                    9.0
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    8.5,
+                    3.5,
+                    10.0,
+                    4.0
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    7.0,
+                    2.5,
+                    7.5
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    3.5,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    8.5,
+                    3.0,
+                    10.0,
+                    3.5
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    8.0,
+                    8.0,
+                    8.5,
+                    9.5
+                  ]
+                }
+              }
+            },
+            {
+              "name": "Blade27",
+              "from": [
+                0.0,
+                0.0,
+                -0.5
+              ],
+              "to": [
+                0.5,
+                0.5,
+                1.5
+              ],
+              "rotationOrigin": [
+                0.0,
+                0.0,
+                1.5
+              ],
+              "rotationY": 10.0,
+              "rotationZ": -1.0,
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    5.0,
+                    1.5,
+                    5.5
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    4.0,
+                    3.5,
+                    6.0,
+                    4.0
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    7.0,
+                    2.5,
+                    7.5
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    4.0,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    2.5,
+                    7.0,
+                    4.5,
+                    7.5
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    3.0,
+                    3.0,
+                    3.5,
+                    5.0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "tangD",
+          "from": [
+            -4.0,
+            0.0,
+            0.75
+          ],
+          "to": [
+            0.0,
+            0.3,
+            1.25
+          ],
+          "rotationOrigin": [
+            -4.0,
+            0.0,
+            0.75
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                1.0,
+                5.0,
+                5.0,
+                5.5
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                2.0,
+                5.0,
+                2.5,
+                5.5
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                2.0,
+                7.0,
+                6.0,
+                7.5
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                2.0,
+                6.0,
+                2.5,
+                6.5
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                4.0,
+                9.5,
+                4.5,
+                13.5
+              ],
+              "rotation": 90
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                3.0,
+                3.0,
+                7.0,
+                3.5
+              ]
+            }
+          }
+        },
+        {
+          "name": "Blade12",
+          "from": [
+            1.0,
+            0.4,
+            1.05
+          ],
+          "to": [
+            6.5,
+            0.9,
+            4.05
+          ],
+          "rotationOrigin": [
+            2.5,
+            0.4,
+            1.1
+          ],
+          "rotationX": -18.0,
+          "rotationY": 0.1,
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                1.0,
+                5.0,
+                6.5,
+                5.5
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                7.0,
+                5.0,
+                10.0,
+                5.5
+              ]
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                6.0,
+                3.5,
+                11.5,
+                4.0
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                2.0,
+                6.0,
+                5.0,
+                6.5
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                4.0,
+                1.0,
+                9.5,
+                4.0
+              ]
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                3.0,
+                7.0,
+                8.5,
+                10.0
+              ]
+            }
+          },
+          "children": [
+            {
+              "name": "Blade14",
+              "from": [
+                5.5,
+                0.0,
+                0.0
+              ],
+              "to": [
+                6.0,
+                0.5,
+                2.5
+              ],
+              "rotationOrigin": [
+                5.5,
+                0.0021,
+                0.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    5.0,
+                    1.5,
+                    5.5
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    9.5,
+                    3.5,
+                    12.0,
+                    4.0
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    8.5,
+                    3.0,
+                    9.0,
+                    3.5
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    4.5,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    8.5,
+                    3.0,
+                    11.0,
+                    3.5
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    3.0,
+                    3.0,
+                    3.5,
+                    5.5
+                  ]
+                }
+              }
+            },
+            {
+              "name": "Blade15",
+              "from": [
+                6.0,
+                0.0,
+                0.0
+              ],
+              "to": [
+                6.5,
+                0.5,
+                1.5
+              ],
+              "rotationOrigin": [
+                6.0,
+                0.0021,
+                0.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    5.0,
+                    1.5,
+                    5.5
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    10.0,
+                    3.0,
+                    11.5,
+                    3.5
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    8.5,
+                    3.5,
+                    9.0,
+                    4.0
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    3.5,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    10.0,
+                    3.0,
+                    11.5,
+                    3.5
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    4.5,
+                    4.0,
+                    5.0,
+                    5.5
+                  ]
+                }
+              }
+            },
+            {
+              "name": "Blade28",
+              "from": [
+                0.0,
+                0.0,
+                1.5
+              ],
+              "to": [
+                0.5,
+                0.5,
+                3.5
+              ],
+              "rotationOrigin": [
+                0.5,
+                0.0021,
+                1.5
+              ],
+              "rotationY": -10.0,
+              "rotationZ": 1.0,
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    1.0,
+                    5.0,
+                    1.5,
+                    5.5
+                  ]
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    9.0,
+                    3.5,
+                    11.0,
+                    4.0
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    7.0,
+                    2.5,
+                    7.5
+                  ]
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    6.0,
+                    4.0,
+                    6.5
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    2.0,
+                    9.5,
+                    4.0,
+                    10.0
+                  ],
+                  "rotation": 90
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    3.0,
+                    3.0,
+                    3.5,
+                    5.0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "SocketU",
+          "from": [
+            0.0,
+            1.5,
+            0.0
+          ],
+          "to": [
+            2.0,
+            2.0,
+            2.0
+          ],
+          "rotationOrigin": [
+            0.0,
+            1.5,
+            0.0
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ]
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ]
+            }
+          }
+        },
+        {
+          "name": "SocketN",
+          "from": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "to": [
+            2.0,
+            2.0,
+            0.5
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                0.5,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                0.5,
+                2.0
+              ],
+              "enabled": false
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "enabled": false
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "enabled": false
+            }
+          },
+          "children": [
+            {
+              "name": "SocketNface",
+              "from": [
+                0.0,
+                0.5,
+                0.0
+              ],
+              "to": [
+                0.0,
+                1.5,
+                0.5
+              ],
+              "rotationOrigin": [
+                0.0,
+                0.5,
+                0.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.5
+                  ],
+                  "enabled": false
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.5
+                  ],
+                  "enabled": false
+                }
+              }
+            },
+            {
+              "name": "SocketNface2",
+              "from": [
+                2.0,
+                0.0,
+                0.0
+              ],
+              "to": [
+                2.0,
+                2.0,
+                2.0
+              ],
+              "rotationOrigin": [
+                2.0,
+                0.0,
+                0.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    2.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    2.0,
+                    2.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ]
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    2.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    2.0,
+                    2.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    2.0
+                  ],
+                  "enabled": false
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    2.0
+                  ],
+                  "enabled": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "SocketS",
+          "from": [
+            0.0,
+            0.0,
+            1.5
+          ],
+          "to": [
+            2.0,
+            2.0,
+            2.0
+          ],
+          "rotationOrigin": [
+            0.0,
+            0.0,
+            1.5
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                0.5,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                2.0
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                0.5,
+                2.0
+              ],
+              "enabled": false
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "enabled": false
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                0.0,
+                2.0,
+                0.5
+              ],
+              "enabled": false
+            }
+          },
+          "children": [
+            {
+              "name": "SocketSface",
+              "from": [
+                0.0,
+                0.5,
+                0.0
+              ],
+              "to": [
+                0.0,
+                1.5,
+                0.5
+              ],
+              "rotationOrigin": [
+                0.0,
+                0.5,
+                0.0
+              ],
+              "faces": {
+                "north": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "east": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "south": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ],
+                  "enabled": false
+                },
+                "west": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    1.0
+                  ],
+                  "windMode": [
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                  ]
+                },
+                "up": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.5
+                  ],
+                  "enabled": false
+                },
+                "down": {
+                  "texture": "#material",
+                  "uv": [
+                    0.0,
+                    0.0,
+                    0.5,
+                    0.5
+                  ],
+                  "enabled": false
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "tangD3",
+          "from": [
+            -4.0,
+            1.7,
+            0.75
+          ],
+          "to": [
+            0.0,
+            2.0,
+            1.25
+          ],
+          "rotationOrigin": [
+            -4.0,
+            1.7,
+            0.75
+          ],
+          "faces": {
+            "north": {
+              "texture": "#material",
+              "uv": [
+                6.0,
+                2.0,
+                10.0,
+                2.5
+              ]
+            },
+            "east": {
+              "texture": "#material",
+              "uv": [
+                11.5,
+                0.0,
+                12.0,
+                0.5
+              ],
+              "windMode": [
+                -1,
+                -1,
+                -1,
+                -1
+              ],
+              "enabled": false
+            },
+            "south": {
+              "texture": "#material",
+              "uv": [
+                0.0,
+                13.0,
+                4.0,
+                13.5
+              ]
+            },
+            "west": {
+              "texture": "#material",
+              "uv": [
+                9.0,
+                13.5,
+                9.5,
+                14.0
+              ]
+            },
+            "up": {
+              "texture": "#material",
+              "uv": [
+                3.5,
+                11.0,
+                4.0,
+                15.0
+              ],
+              "rotation": 90
+            },
+            "down": {
+              "texture": "#material",
+              "uv": [
+                11.0,
+                12.0,
+                15.0,
+                12.5
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

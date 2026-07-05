@@ -1,0 +1,11 @@
+[
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/variantgroups/1/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" }
+]

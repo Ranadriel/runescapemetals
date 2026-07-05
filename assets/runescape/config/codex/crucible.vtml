@@ -1,0 +1,20 @@
+<strong>The three crucibles</strong>
+
+<strong>Steel</strong> — Tier 1. 16-slot drum, 1600°C max, ~16 L molten capacity.
+<strong>Adamantite</strong> — Tier 2. 32-slot drum, 2100°C max, ~32 L capacity.
+<strong>Dragon</strong> — Tier 3. 64-slot drum, 2800°C max, ~64 L capacity. Only crucible that melts every metal.
+
+<strong>Workflow</strong>
+• Sneak + right-click a crucible to open its inventory. Load fuel in slot 0; ore in the cooking slots.
+• The cook driver advances temperature ~25°C/sec while fuel burns. When every ingredient hits its melting point the crucible converts them to molten metal (single-metal smelt only — mixing rejected).
+• Right-click hold on a crucible to tip the drum (the pouring gesture).
+• Look at the block to see current temperature and molten contents.
+
+<strong>Safeguards</strong>
+Already-cooked items (ingots, already-melted forms) are refused at the cook stage. No ore lost to recook.
+
+<strong>Reaching one tier higher</strong>
+Attach a <a href="superheater">superheater</a> block to a large crucible for +300°C. Steel crucible reaches mithril; adamantite crucible reaches runite; dragon needs nothing.
+
+<strong>Transport</strong>
+Use the <a href="scoop">magma scoop</a> to move melt from one crucible to another.

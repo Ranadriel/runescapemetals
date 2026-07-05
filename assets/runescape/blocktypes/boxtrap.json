@@ -1,0 +1,52 @@
+{
+ "code": "boxtrap",
+ "class": "BlockBoxTrap",
+ "entityClass": "BEBoxTrap",
+ "variantgroups": [
+  {
+   "code": "tier",
+   "states": ["iron", "steel", "mithril", "adamantite", "runite"]
+  }
+ ],
+ "shape": { "base": "runescape:block/boxtrap" },
+ "textures": {
+  "wood": { "base": "game:block/wood/debarked/pine" },
+  "metal": { "base": "game:block/metal/sheet/iron1" }
+ },
+ "texturesByType": {
+  "boxtrap-iron":       { "wood": { "base": "game:block/wood/debarked/pine" }, "metal": { "base": "game:block/metal/sheet/iron1" } },
+  "boxtrap-steel":      { "wood": { "base": "game:block/wood/debarked/pine" }, "metal": { "base": "game:block/metal/sheet/steel1" } },
+  "boxtrap-mithril":    { "wood": { "base": "game:block/wood/debarked/pine" }, "metal": { "base": "runescape:block/metal/sheet/mithril1" } },
+  "boxtrap-adamantite": { "wood": { "base": "game:block/wood/debarked/pine" }, "metal": { "base": "runescape:block/metal/sheet/adamantite1" } },
+  "boxtrap-runite":     { "wood": { "base": "game:block/wood/debarked/pine" }, "metal": { "base": "runescape:block/metal/sheet/runite1" } }
+ },
+ "creativeinventory": { "general": ["*"] },
+ "blockmaterial": "Wood",
+ "replaceable": 600,
+ "resistance": 1.5,
+ "lightAbsorption": 0,
+ "sideopaque": { "all": false },
+ "sidesolid": { "all": false },
+ "emitsideao": { "all": false },
+ "collisionbox": { "x1": 0.1, "y1": 0, "z1": 0.1, "x2": 0.9, "y2": 0.5, "z2": 0.9 },
+ "selectionbox": { "x1": 0.1, "y1": 0, "z1": 0.1, "x2": 0.9, "y2": 0.5, "z2": 0.9 },
+ "sounds": {
+  "walk": "walk/wood",
+  "place": "block/wood",
+  "break": "block/wood"
+ },
+ "maxStackSize": 16,
+ "attributes": {
+  "catchchance": {
+   "iron":       0.50,
+   "steel":      0.62,
+   "mithril":    0.74,
+   "adamantite": 0.85,
+   "runite":     0.93
+  }
+ },
+ "guiTransform": {
+  "origin": { "x": 0.5, "y": 0.3, "z": 0.5 },
+  "scale": 1.4
+ }
+}

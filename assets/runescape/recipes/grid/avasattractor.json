@@ -1,0 +1,13 @@
+{
+	"ingredientPattern": "_M_,NLN,_R_",
+	"ingredients": {
+		"M": { "type": "item", "code": "game:ore-*-magnetite", "name": "grade", "allowedVariants": ["poor", "medium", "rich", "bountiful"] },
+		"N": { "type": "item", "code": "game:metalnailsandstrips-iron" },
+		"L": { "type": "item", "code": "game:leather-normal-plain" },
+		"R": { "type": "item", "code": "game:resin" }
+	},
+	"name": "avasattractor",
+	"width": 3,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:avasattractor" }
+}

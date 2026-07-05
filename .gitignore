@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+*.dll.old
+*.dll.before-*
+*.dll.CRASHED-*
+*.dll.parked-*
+
+# Backup / working files
+*.before-*
+*.orig
+*.bak
+*.v0*-*
+*.v1-*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Claude-tooling scratch inside the mod folder (never useful upstream)
+.claude/

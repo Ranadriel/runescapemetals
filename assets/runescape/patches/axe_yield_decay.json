@@ -1,0 +1,13 @@
+[
+	{
+		"file": "game:itemtypes/tool/axe-metal.json",
+		"op": "add",
+		"path": "/classByType",
+		"value": {
+			"axe-felling-mithril":    "ItemAxeTiered",
+			"axe-felling-adamantite": "ItemAxeTiered",
+			"axe-felling-runite":     "ItemAxeTiered",
+			"axe-felling-dragon":     "ItemAxeTiered"
+		}
+	}
+]

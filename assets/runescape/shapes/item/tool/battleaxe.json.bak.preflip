@@ -1,0 +1,49 @@
+{
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textures": {
+		"head": "runescape:block/metal/ingot/dragon",
+		"handle": "game:block/wood/debarked/aged"
+	},
+	"elements": [
+		{
+			"name": "handle",
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 13, 8.5],
+			"faces": {
+				"north": { "texture": "#handle", "uv": [7, 3, 8, 16] },
+				"east":  { "texture": "#handle", "uv": [7, 3, 8, 16] },
+				"south": { "texture": "#handle", "uv": [7, 3, 8, 16] },
+				"west":  { "texture": "#handle", "uv": [7, 3, 8, 16] },
+				"up":    { "texture": "#handle", "uv": [7, 3, 8, 4] },
+				"down":  { "texture": "#handle", "uv": [7, 3, 8, 4] }
+			}
+		},
+		{
+			"name": "bladeN",
+			"from": [7.5, 9, 1],
+			"to": [8.5, 15, 7.5],
+			"faces": {
+				"north": { "texture": "#head", "uv": [7, 1, 8, 7] },
+				"east":  { "texture": "#head", "uv": [1, 1, 7, 7] },
+				"south": { "texture": "#head", "uv": [7, 1, 8, 7] },
+				"west":  { "texture": "#head", "uv": [1, 1, 7, 7] },
+				"up":    { "texture": "#head", "uv": [1, 1, 7, 2] },
+				"down":  { "texture": "#head", "uv": [1, 1, 7, 2] }
+			}
+		},
+		{
+			"name": "bladeS",
+			"from": [7.5, 9, 8.5],
+			"to": [8.5, 15, 15],
+			"faces": {
+				"north": { "texture": "#head", "uv": [7, 1, 8, 7] },
+				"east":  { "texture": "#head", "uv": [8, 1, 14, 7] },
+				"south": { "texture": "#head", "uv": [7, 1, 8, 7] },
+				"west":  { "texture": "#head", "uv": [8, 1, 14, 7] },
+				"up":    { "texture": "#head", "uv": [8, 1, 14, 2] },
+				"down":  { "texture": "#head", "uv": [8, 1, 14, 2] }
+			}
+		}
+	]
+}

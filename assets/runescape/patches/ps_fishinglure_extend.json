@@ -1,0 +1,102 @@
+[
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon",
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/attributes/reinforcementStrengthByType",
+		"value": {
+			"*-mithril":    1380,
+			"*-adamantite": 1560,
+			"*-runite":     1800,
+			"*-dragon":     2100
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/materialDensityByType",
+		"value": {
+			"*-mithril":    5500,
+			"*-adamantite": 6000,
+			"*-runite":     6500,
+			"*-dragon":     7500
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/combustiblePropsByType",
+		"value": {
+			"fishinglure-mithril": {
+				"meltingPoint": 1727,
+				"meltingDuration": 34.5,
+				"smeltedRatio": 4,
+				"smeltedStack": { "type": "item", "code": "ingot-mithril" }
+			},
+			"fishinglure-adamantite": {
+				"meltingPoint": 1953,
+				"meltingDuration": 39.0,
+				"smeltedRatio": 4,
+				"smeltedStack": { "type": "item", "code": "ingot-adamantite" }
+			},
+			"fishinglure-runite": {
+				"meltingPoint": 2253,
+				"meltingDuration": 45.0,
+				"smeltedRatio": 4,
+				"smeltedStack": { "type": "item", "code": "ingot-runite" }
+			},
+			"fishinglure-dragon": {
+				"meltingPoint": 2629,
+				"meltingDuration": 52.5,
+				"smeltedRatio": 4,
+				"smeltedStack": { "type": "item", "code": "ingot-dragon" }
+			}
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "primitivesurvival:itemtypes/fishing/fishinglure.json",
+		"path": "/texturesByType",
+		"value": {
+			"fishinglure-mithril":    { "hookmaterial": { "base": "runescape:block/metal/ingot/mithril" } },
+			"fishinglure-adamantite": { "hookmaterial": { "base": "runescape:block/metal/ingot/adamantite" } },
+			"fishinglure-runite":     { "hookmaterial": { "base": "runescape:block/metal/ingot/runite" } },
+			"fishinglure-dragon":     { "hookmaterial": { "base": "runescape:block/metal/ingot/dragon" } }
+		},
+		"dependsOn": [ { "modid": "primitivesurvival" } ]
+	}
+]

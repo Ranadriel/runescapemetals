@@ -1,0 +1,14 @@
+[
+	{
+		"ingredientPattern": "PPP,RMR,PPP",
+		"ingredients": {
+			"P": { "type": "item", "code": "game:metalplate-adamantite" },
+			"R": { "type": "item", "code": "game:rod-adamantite" },
+			"M": { "type": "block", "code": "runescape:magmascoop" }
+		},
+		"name": "superheater",
+		"width": 3,
+		"height": 3,
+		"output": { "type": "block", "code": "runescape:superheater", "quantity": 1 }
+	}
+]

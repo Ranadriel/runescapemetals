@@ -1,0 +1,121 @@
+[
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/durabilitybytype/knife-generic-mithril",    "value": 2588 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/durabilitybytype/knife-generic-adamantite", "value": 2925 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/durabilitybytype/knife-generic-runite",     "value": 3375 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/durabilitybytype/knife-generic-dragon",     "value": 3938 },
+
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/attackpowerbytype/knife-generic-mithril",    "value": 4.6 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/attackpowerbytype/knife-generic-adamantite", "value": 5.2 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/attackpowerbytype/knife-generic-runite",     "value": 5.6 },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/attackpowerbytype/knife-generic-dragon",     "value": 6.0 },
+
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/miningspeedbytype/knife-generic-mithril",    "value": { "plant": 2.8 } },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/miningspeedbytype/knife-generic-adamantite", "value": { "plant": 3.1 } },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/miningspeedbytype/knife-generic-runite",     "value": { "plant": 3.6 } },
+	{ "file": "game:itemtypes/tool/knife.json", "op": "add", "path": "/miningspeedbytype/knife-generic-dragon",     "value": { "plant": 4.2 } },
+
+	{ "file": "game:itemtypes/tool/chisel.json", "op": "add", "path": "/durabilitybytype/chisel-mithril",    "value": 6900 },
+	{ "file": "game:itemtypes/tool/chisel.json", "op": "add", "path": "/durabilitybytype/chisel-adamantite", "value": 7800 },
+	{ "file": "game:itemtypes/tool/chisel.json", "op": "add", "path": "/durabilitybytype/chisel-runite",     "value": 9000 },
+	{ "file": "game:itemtypes/tool/chisel.json", "op": "add", "path": "/durabilitybytype/chisel-dragon",     "value": 10500 },
+
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/durabilitybytype/hammer-mithril",    "value": 5175 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/durabilitybytype/hammer-adamantite", "value": 5850 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/durabilitybytype/hammer-runite",     "value": 6750 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/durabilitybytype/hammer-dragon",     "value": 7875 },
+
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/attackpowerbytype/hammer-mithril",    "value": 2.9 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/attackpowerbytype/hammer-adamantite", "value": 3.3 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/attackpowerbytype/hammer-runite",     "value": 3.8 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/attackpowerbytype/hammer-dragon",     "value": 4.4 },
+
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/tooltierbytype/*-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/tooltierbytype/*-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/tooltierbytype/*-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/hammer.json", "op": "add", "path": "/tooltierbytype/*-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/durabilitybytype/saw-mithril",    "value": 2588 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/durabilitybytype/saw-adamantite", "value": 2925 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/durabilitybytype/saw-runite",     "value": 3375 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/durabilitybytype/saw-dragon",     "value": 3938 },
+
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/miningspeedbytype/saw-mithril",    "value": { "wood": 6.9,  "leaves": 4.6 } },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/miningspeedbytype/saw-adamantite", "value": { "wood": 7.8,  "leaves": 5.2 } },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/miningspeedbytype/saw-runite",     "value": { "wood": 9.0,  "leaves": 6.0 } },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/miningspeedbytype/saw-dragon",     "value": { "wood": 10.5, "leaves": 7.0 } },
+
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/tooltierbytype/saw-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/tooltierbytype/saw-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/tooltierbytype/saw-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/saw.json", "op": "add", "path": "/tooltierbytype/saw-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/scythe.json", "op": "add", "path": "/durabilitybytype/scythe-mithril",    "value": 3910 },
+	{ "file": "game:itemtypes/tool/scythe.json", "op": "add", "path": "/durabilitybytype/scythe-adamantite", "value": 4420 },
+	{ "file": "game:itemtypes/tool/scythe.json", "op": "add", "path": "/durabilitybytype/scythe-runite",     "value": 5100 },
+	{ "file": "game:itemtypes/tool/scythe.json", "op": "add", "path": "/durabilitybytype/scythe-dragon",     "value": 5950 },
+
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/durabilitybytype/shears-mithril",    "value": 10925 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/durabilitybytype/shears-adamantite", "value": 12350 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/durabilitybytype/shears-runite",     "value": 14250 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/durabilitybytype/shears-dragon",     "value": 16625 },
+
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/attackpowerbytype/shears-mithril",    "value": 4.0 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/attackpowerbytype/shears-adamantite", "value": 4.6 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/attackpowerbytype/shears-runite",     "value": 5.3 },
+	{ "file": "game:itemtypes/tool/shears.json", "op": "add", "path": "/attackpowerbytype/shears-dragon",     "value": 5.9 },
+
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/durabilitybytype/cleaver-mithril",    "value": 2300 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/durabilitybytype/cleaver-adamantite", "value": 2600 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/durabilitybytype/cleaver-runite",     "value": 3000 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/durabilitybytype/cleaver-dragon",     "value": 3500 },
+
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/attackpowerbytype/cleaver-mithril",    "value": 3.2 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/attackpowerbytype/cleaver-adamantite", "value": 3.6 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/attackpowerbytype/cleaver-runite",     "value": 4.1 },
+	{ "file": "game:itemtypes/tool/cleaver.json", "op": "add", "path": "/attackpowerbytype/cleaver-dragon",     "value": 4.8 },
+
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/durabilitybytype/prospectingpick-mithril",    "value": 1869 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/durabilitybytype/prospectingpick-adamantite", "value": 2113 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/durabilitybytype/prospectingpick-runite",     "value": 2438 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/durabilitybytype/prospectingpick-dragon",     "value": 2844 },
+
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/attackpowerbytype/prospectingpick-mithril",    "value": 2.9 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/attackpowerbytype/prospectingpick-adamantite", "value": 3.3 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/attackpowerbytype/prospectingpick-runite",     "value": 3.8 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/attackpowerbytype/prospectingpick-dragon",     "value": 4.4 },
+
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/tooltierbytype/*-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/tooltierbytype/*-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/tooltierbytype/*-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/tooltierbytype/*-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/miningspeedbytype/prospectingpick-mithril",    "value": { "stone": 6.3, "ore": 6.3 } },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/miningspeedbytype/prospectingpick-adamantite", "value": { "stone": 7.2, "ore": 7.2 } },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/miningspeedbytype/prospectingpick-runite",     "value": { "stone": 8.3, "ore": 8.3 } },
+	{ "file": "game:itemtypes/tool/prospectingpick.json", "op": "add", "path": "/miningspeedbytype/prospectingpick-dragon",     "value": { "stone": 9.6, "ore": 9.6 } },
+
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/durabilitybytype/hoe-mithril",    "value": 1438 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/durabilitybytype/hoe-adamantite", "value": 1625 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/durabilitybytype/hoe-runite",     "value": 1875 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/durabilitybytype/hoe-dragon",     "value": 2188 },
+
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/attackpowerbytype/hoe-mithril",    "value": 2.9 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/attackpowerbytype/hoe-adamantite", "value": 3.3 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/attackpowerbytype/hoe-runite",     "value": 3.8 },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/attackpowerbytype/hoe-dragon",     "value": 4.4 },
+
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/miningspeedbytype/hoe-mithril",    "value": { "soil": 5.8 } },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/miningspeedbytype/hoe-adamantite", "value": { "soil": 6.5 } },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/miningspeedbytype/hoe-runite",     "value": { "soil": 7.5 } },
+	{ "file": "game:itemtypes/tool/hoe.json", "op": "add", "path": "/miningspeedbytype/hoe-dragon",     "value": { "soil": 8.8 } },
+
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/damageByType/*-mithril",    "value": 2.9 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/damageByType/*-adamantite", "value": 3.3 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/damageByType/*-runite",     "value": 3.8 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/damageByType/*-dragon",     "value": 4.4 },
+
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/breakChanceOnImpactByType/*-mithril",    "value": 0.06 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/breakChanceOnImpactByType/*-adamantite", "value": 0.055 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/breakChanceOnImpactByType/*-runite",     "value": 0.05 },
+	{ "file": "game:itemtypes/tool/arrow.json", "op": "add", "path": "/attributes/breakChanceOnImpactByType/*-dragon",     "value": 0.04 }
+]

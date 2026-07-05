@@ -1,0 +1,36 @@
+[
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-mithril",    "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-adamantite", "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-runite",     "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-dragon",     "value": { "base": "item/tool/blade/falx/steel" } },
+
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/shapeByType/bladehead-falx-mithril",    "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/shapeByType/bladehead-falx-adamantite", "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/shapeByType/bladehead-falx-runite",     "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/toolhead/bladehead.json", "op": "add", "path": "/shapeByType/bladehead-falx-dragon",     "value": { "base": "item/tool/blade/falx/steel" } },
+
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/shapeByType/knifeblade-mithril",    "value": { "base": "item/tool/knife/copper" } },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/shapeByType/knifeblade-adamantite", "value": { "base": "item/tool/knife/copper" } },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/shapeByType/knifeblade-runite",     "value": { "base": "item/tool/knife/copper" } },
+	{ "file": "game:itemtypes/toolhead/knifeblade.json", "op": "add", "path": "/shapeByType/knifeblade-dragon",     "value": { "base": "item/tool/knife/copper" } },
+
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-mithril",    "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-adamantite", "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-runite",     "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-dragon",     "value": { "base": "item/tool/axe/iron" } },
+
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/shapeByType/axe-felling-mithril",    "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/shapeByType/axe-felling-adamantite", "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/shapeByType/axe-felling-runite",     "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/tool/axe-metal.json", "op": "add", "path": "/shapeByType/axe-felling-dragon",     "value": { "base": "item/tool/axe/iron" } },
+
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-mithril",    "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-adamantite", "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-runite",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-dragon",     "value": { "base": "item/tool/pickaxe-iron" } },
+
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-mithril",    "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-adamantite", "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-runite",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-dragon",     "value": { "base": "item/tool/pickaxe-iron" } }
+]

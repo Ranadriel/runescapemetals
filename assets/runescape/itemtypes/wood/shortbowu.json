@@ -1,0 +1,59 @@
+{
+	"code": "shortbowu",
+	"variantgroups": [
+		{ "code": "wood", "states": ["common", "oak", "willow", "maple", "yew", "magic"] }
+	],
+	"maxstacksize": 8,
+	"shape": { "base": "game:item/tool/bow/recurve-stave" },
+	"texturesByType": {
+		"*-common": {
+			"pine":    { "base": "game:block/wood/debarked/pine" },
+			"aged":    { "base": "game:block/wood/debarked/pine" },
+			"bone":    { "base": "game:block/wood/debarked/pine" },
+			"leather": { "base": "game:block/wood/debarked/pine" }
+		},
+		"*-oak": {
+			"pine":    { "base": "game:block/wood/debarked/oak" },
+			"aged":    { "base": "game:block/wood/debarked/oak" },
+			"bone":    { "base": "game:block/wood/debarked/oak" },
+			"leather": { "base": "game:block/wood/debarked/oak" }
+		},
+		"*-willow": {
+			"pine":    { "base": "game:block/wood/debarked/baldcypress" },
+			"aged":    { "base": "game:block/wood/debarked/baldcypress" },
+			"bone":    { "base": "game:block/wood/debarked/baldcypress" },
+			"leather": { "base": "game:block/wood/debarked/baldcypress" }
+		},
+		"*-maple": {
+			"pine":    { "base": "game:block/wood/debarked/maple" },
+			"aged":    { "base": "game:block/wood/debarked/maple" },
+			"bone":    { "base": "game:block/wood/debarked/maple" },
+			"leather": { "base": "game:block/wood/debarked/maple" }
+		},
+		"*-yew": {
+			"pine":    { "base": "game:block/wood/debarked/larch" },
+			"aged":    { "base": "game:block/wood/debarked/larch" },
+			"bone":    { "base": "game:block/wood/debarked/larch" },
+			"leather": { "base": "game:block/wood/debarked/larch" }
+		},
+		"*-magic": {
+			"pine":    { "base": "runescape:item/wood/magic" },
+			"aged":    { "base": "runescape:item/wood/magic" },
+			"bone":    { "base": "runescape:item/wood/magic" },
+			"leather": { "base": "runescape:item/wood/magic" }
+		}
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": -129, "y": 25, "z": 41 },
+		"origin": { "x": 0.47, "y": 0, "z": 0.55 },
+		"scale": 1.64
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 4.8
+	}
+}

@@ -1,0 +1,19 @@
+<strong>The magma scoop</strong>
+
+A closed crucible-to-crucible courier for molten metal. The <strong>only</strong> way to move melt between crucibles.
+
+<strong>Use</strong>
+• Empty scoop, right-click a <a href="crucible">crucible</a> with molten contents — scoop fills with that metal.
+• Loaded scoop, right-click another crucible — scoop empties into the destination.
+• Cross-metal mixing is refused: cannot deposit mithril into an adamantite-loaded crucible.
+
+<strong>Refused</strong>
+• World lava (cannot scoop world lava blocks).
+• Spilling on the ground, in water, in air (the molten liquid has no spill behavior).
+• Any non-crucible block as a target.
+
+<strong>Placement</strong>
+Sneak + right-click to place the scoop as a block; it then behaves as a normal storage container.
+
+<strong>Also part of</strong>
+The <a href="superheater">superheater</a> recipe uses a magma scoop at its center.

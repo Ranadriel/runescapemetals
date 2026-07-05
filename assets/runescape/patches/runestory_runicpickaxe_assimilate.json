@@ -1,0 +1,81 @@
+[
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril",
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite",
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite",
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon",
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/tooltierByType",
+		"value": {
+			"*-mithril": 5,
+			"*-adamantite": 6,
+			"*-runite": 7,
+			"*-dragon": 8
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/miningspeedByType",
+		"value": {
+			"*-mithril":    { "stone": 22 },
+			"*-adamantite": { "stone": 26 },
+			"*-runite":     { "stone": 30 },
+			"*-dragon":     { "stone": 36 }
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	},
+
+	{
+		"op": "addmerge",
+		"file": "runestory:itemtypes/runepickaxe.json",
+		"path": "/texturesByType",
+		"value": {
+			"*-mithril": {
+				"handle": { "base": "game:block/stone/rock/basalt1" },
+				"metal":  { "base": "runescape:block/metal/ingot/mithril" }
+			},
+			"*-adamantite": {
+				"handle": { "base": "game:block/stone/rock/basalt1" },
+				"metal":  { "base": "runescape:block/metal/ingot/adamantite" }
+			},
+			"*-runite": {
+				"handle": { "base": "game:block/stone/rock/basalt1" },
+				"metal":  { "base": "runescape:block/metal/ingot/runite" }
+			},
+			"*-dragon": {
+				"handle": { "base": "game:block/stone/rock/basalt1" },
+				"metal":  { "base": "runescape:block/metal/ingot/dragon" }
+			}
+		},
+		"dependsOn": [ { "modid": "runestory" } ]
+	}
+]

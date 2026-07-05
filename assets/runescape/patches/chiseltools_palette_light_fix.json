@@ -1,0 +1,9 @@
+[
+	{
+		"file": "chiseltools:recipes/grid/palette-light.json",
+		"op": "replace",
+		"path": "/0/ingredients/L/code",
+		"value": "game:lantern-*-up",
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	}
+]

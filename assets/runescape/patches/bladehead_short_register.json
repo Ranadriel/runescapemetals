@@ -1,0 +1,110 @@
+[
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "bladehead-short-mithril"
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/shapeByType/bladehead-short-mithril",
+		"value": {
+			"base": "item/tool/blade/blackguard"
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/texturesByType/bladehead-short-mithril",
+		"value": {
+			"handle": {
+				"base": "block/transparent"
+			},
+			"metal": {
+				"base": "block/metal/ingot/{metal}"
+			}
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "bladehead-short-adamantite"
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/shapeByType/bladehead-short-adamantite",
+		"value": {
+			"base": "item/tool/blade/blackguard"
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/texturesByType/bladehead-short-adamantite",
+		"value": {
+			"handle": {
+				"base": "block/transparent"
+			},
+			"metal": {
+				"base": "block/metal/ingot/{metal}"
+			}
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "bladehead-short-runite"
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/shapeByType/bladehead-short-runite",
+		"value": {
+			"base": "item/tool/blade/blackguard"
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/texturesByType/bladehead-short-runite",
+		"value": {
+			"handle": {
+				"base": "block/transparent"
+			},
+			"metal": {
+				"base": "block/metal/ingot/{metal}"
+			}
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/allowedVariants/-",
+		"value": "bladehead-short-dragon"
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/shapeByType/bladehead-short-dragon",
+		"value": {
+			"base": "item/tool/blade/blackguard"
+		}
+	},
+	{
+		"file": "game:itemtypes/toolhead/bladehead.json",
+		"op": "add",
+		"path": "/texturesByType/bladehead-short-dragon",
+		"value": {
+			"handle": {
+				"base": "block/transparent"
+			},
+			"metal": {
+				"base": "block/metal/ingot/{metal}"
+			}
+		}
+	}
+]

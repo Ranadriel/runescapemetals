@@ -1,0 +1,31 @@
+[
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/requiresAnvilTierByType/ingot-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/requiresAnvilTierByType/ingot-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/requiresAnvilTierByType/ingot-runite",     "value": 7 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/requiresAnvilTierByType/ingot-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/reinforcementStrengthByType/*-mithril",    "value": 1380 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/reinforcementStrengthByType/*-adamantite", "value": 1560 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/reinforcementStrengthByType/*-runite",     "value": 1800 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/attributes/reinforcementStrengthByType/*-dragon",     "value": 2100 },
+
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/materialDensityByType/*-mithril",    "value": 5500 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/materialDensityByType/*-adamantite", "value": 6000 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/materialDensityByType/*-runite",     "value": 6500 },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/materialDensityByType/*-dragon",     "value": 7500 },
+
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/materialDensityByType/*-mithril",    "value": 5500 },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/materialDensityByType/*-adamantite", "value": 6000 },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/materialDensityByType/*-runite",     "value": 6500 },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/materialDensityByType/*-dragon",     "value": 7500 },
+
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/combustiblePropsByType/ingot-mithril",    "value": { "meltingPoint": 1727, "meltingDuration": 34.5, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-mithril" } } },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/combustiblePropsByType/ingot-adamantite", "value": { "meltingPoint": 1953, "meltingDuration": 39.0, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-adamantite" } } },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/combustiblePropsByType/ingot-runite",     "value": { "meltingPoint": 2253, "meltingDuration": 45.0, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-runite" } } },
+	{ "file": "game:itemtypes/resource/ingot.json", "op": "add", "path": "/combustiblePropsByType/ingot-dragon",     "value": { "meltingPoint": 2629, "meltingDuration": 52.5, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-dragon" } } },
+
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/combustiblePropsByType/metalplate-mithril",    "value": { "meltingPoint": 1727, "meltingDuration": 34.5, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-mithril",    "stacksize": 2 } } },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/combustiblePropsByType/metalplate-adamantite", "value": { "meltingPoint": 1953, "meltingDuration": 39.0, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-adamantite", "stacksize": 2 } } },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/combustiblePropsByType/metalplate-runite",     "value": { "meltingPoint": 2253, "meltingDuration": 45.0, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-runite",     "stacksize": 2 } } },
+	{ "file": "game:itemtypes/resource/metalplate.json", "op": "add", "path": "/combustiblePropsByType/metalplate-dragon",     "value": { "meltingPoint": 2629, "meltingDuration": 52.5, "smeltedRatio": 1, "smeltedStack": { "type": "item", "code": "ingot-dragon",     "stacksize": 2 } } }
+]

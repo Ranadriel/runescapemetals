@@ -1,0 +1,34 @@
+[
+  {
+    "file": "game:worldproperties/block/ore-graded.json",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "mithril"
+    }
+  },
+  {
+    "file": "game:worldproperties/block/ore-graded.json",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "adamantite"
+    }
+  },
+  {
+    "file": "game:worldproperties/block/ore-graded.json",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "runite"
+    }
+  },
+  {
+    "file": "game:worldproperties/block/ore-graded.json",
+    "op": "add",
+    "path": "/variants/-",
+    "value": {
+      "Code": "dragon"
+    }
+  }
+]

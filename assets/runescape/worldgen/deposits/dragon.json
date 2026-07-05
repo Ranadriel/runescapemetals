@@ -1,0 +1,100 @@
+[
+  {
+    "code": "dragon",
+    "triesPerChunk": 0.35,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-dragon",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "kimberlite",
+          "peridotite"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-dragon-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "surfaceBlock": {
+        "code": "looseores-dragon-{rock}-free"
+      },
+      "surfaceBlockChance": 0.2,
+      "radius": {
+        "dist": "uniform",
+        "avg": 6,
+        "var": 2
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.45,
+        "var": 0.1
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  },
+  {
+    "code": "dragon",
+    "triesPerChunk": 0.0585,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-dragon",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "kimberlite",
+          "peridotite"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-dragon-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "radius": {
+        "dist": "gaussian",
+        "avg": 12,
+        "var": 2
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.35,
+        "var": 0.1
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  }
+]

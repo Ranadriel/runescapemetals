@@ -1,0 +1,13 @@
+[
+	{
+		"ingredientPattern": "PPP,HHH,PNP",
+		"ingredients": {
+			"P": { "type": "item", "code": "game:plank-*" },
+			"H": { "type": "item", "code": "game:honeycomb" },
+			"N": { "type": "item", "code": "game:metalnailsandstrips-*", "allowedVariants": ["iron", "meteoriciron", "steel"] }
+		},
+		"name": "apiary",
+		"width": 3, "height": 3,
+		"output": { "type": "block", "code": "runescape:apiary-empty-east" }
+	}
+]

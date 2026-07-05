@@ -1,0 +1,78 @@
+[
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/allowedVariants/-", "value": "armor-*-lamellar-mithril" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/allowedVariants/-", "value": "armor-*-lamellar-adamantite" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/allowedVariants/-", "value": "armor-*-lamellar-runite" },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/allowedVariants/-", "value": "armor-*-lamellar-dragon" },
+
+	{ "file": "game:itemtypes/resource/metallamellae.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "mithril" },
+	{ "file": "game:itemtypes/resource/metallamellae.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "adamantite" },
+	{ "file": "game:itemtypes/resource/metallamellae.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "runite" },
+	{ "file": "game:itemtypes/resource/metallamellae.json", "op": "add", "path": "/variantgroups/0/states/-", "value": "dragon" },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-lamellar-mithril",    "value": { "base": "entity/humanoid/seraph/armor/lamellar/head" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-lamellar-adamantite", "value": { "base": "entity/humanoid/seraph/armor/lamellar/head" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-lamellar-runite",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/head" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-head-lamellar-dragon",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/head" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-body-lamellar-mithril",    "value": { "base": "entity/humanoid/seraph/armor/lamellar/body" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-body-lamellar-adamantite", "value": { "base": "entity/humanoid/seraph/armor/lamellar/body" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-body-lamellar-runite",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/body" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-body-lamellar-dragon",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/body" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-legs-lamellar-mithril",    "value": { "base": "entity/humanoid/seraph/armor/lamellar/legs" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-legs-lamellar-adamantite", "value": { "base": "entity/humanoid/seraph/armor/lamellar/legs" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-legs-lamellar-runite",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/legs" } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/shapeByType/armor-legs-lamellar-dragon",     "value": { "base": "entity/humanoid/seraph/armor/lamellar/legs" } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-lamellar-mithril",    "value": { "relativeProtection": 0.985, "flatDamageReduction": 1.55, "protectionTier": 6 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-lamellar-adamantite", "value": { "relativeProtection": 0.99,  "flatDamageReduction": 1.75, "protectionTier": 7 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-lamellar-runite",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.05, "protectionTier": 8 } },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/attributes/protectionModifiersByType/armor-*-lamellar-dragon",     "value": { "relativeProtection": 0.99,  "flatDamageReduction": 2.45, "protectionTier": 9 } },
+
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-lamellar-mithril",    "value": 2700 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-lamellar-adamantite", "value": 3050 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-lamellar-runite",     "value": 3500 },
+	{ "file": "game:itemtypes/wearable/seraph/armor.json", "op": "add", "path": "/durabilityByType/armor-*-lamellar-dragon",     "value": 4050 },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/7/ingredients/L/allowedVariants/-",  "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/7/ingredients/L/allowedVariants/-",  "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/7/ingredients/L/allowedVariants/-",  "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/7/ingredients/L/allowedVariants/-",  "value": "dragon" },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/X/allowedVariants/-",  "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/X/allowedVariants/-",  "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/X/allowedVariants/-",  "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/X/allowedVariants/-",  "value": "dragon" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/Z/allowedVariants/-",  "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/Z/allowedVariants/-",  "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/Z/allowedVariants/-",  "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/8/ingredients/Z/allowedVariants/-",  "value": "dragon" },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/X/allowedVariants/-",  "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/X/allowedVariants/-",  "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/X/allowedVariants/-",  "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/X/allowedVariants/-",  "value": "dragon" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/Z/allowedVariants/-",  "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/Z/allowedVariants/-",  "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/Z/allowedVariants/-",  "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/9/ingredients/Z/allowedVariants/-",  "value": "dragon" },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/X/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/X/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/X/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/X/allowedVariants/-", "value": "dragon" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/Z/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/Z/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/Z/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/10/ingredients/Z/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/11/ingredients/K/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/11/ingredients/K/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/11/ingredients/K/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/11/ingredients/K/allowedVariants/-", "value": "dragon" },
+
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/12/ingredients/K/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/12/ingredients/K/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/12/ingredients/K/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/grid/armor/lamellar.json", "op": "add", "path": "/12/ingredients/K/allowedVariants/-", "value": "dragon" }
+]

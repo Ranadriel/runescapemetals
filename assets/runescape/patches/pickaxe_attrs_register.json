@@ -1,0 +1,122 @@
+[
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/tooltierbytype/*-mithril",
+    "value": 5
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/miningspeedbytype/pickaxe-mithril",
+    "value": {
+      "ceramic": 3.7,
+      "stone": 10.4,
+      "ore": 10.4,
+      "metal": 10.4,
+      "ice": 4.9
+    }
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/durabilitybytype/pickaxe-mithril",
+    "value": 2875
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/attackpowerbytype/pickaxe-mithril",
+    "value": 2.9
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/tooltierbytype/*-adamantite",
+    "value": 6
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/miningspeedbytype/pickaxe-adamantite",
+    "value": {
+      "ceramic": 4.2,
+      "stone": 11.7,
+      "ore": 11.7,
+      "metal": 11.7,
+      "ice": 5.5
+    }
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/durabilitybytype/pickaxe-adamantite",
+    "value": 3250
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/attackpowerbytype/pickaxe-adamantite",
+    "value": 3.3
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/tooltierbytype/*-runite",
+    "value": 7
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/miningspeedbytype/pickaxe-runite",
+    "value": {
+      "ceramic": 4.9,
+      "stone": 13.5,
+      "ore": 13.5,
+      "metal": 13.5,
+      "ice": 6.4
+    }
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/durabilitybytype/pickaxe-runite",
+    "value": 3750
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/attackpowerbytype/pickaxe-runite",
+    "value": 3.8
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/tooltierbytype/*-dragon",
+    "value": 8
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/miningspeedbytype/pickaxe-dragon",
+    "value": {
+      "ceramic": 5.7,
+      "stone": 15.8,
+      "ore": 15.8,
+      "metal": 15.8,
+      "ice": 7.4
+    }
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/durabilitybytype/pickaxe-dragon",
+    "value": 4375
+  },
+  {
+    "file": "game:itemtypes/tool/pickaxe.json",
+    "op": "add",
+    "path": "/attackpowerbytype/pickaxe-dragon",
+    "value": 4.4
+  }
+]

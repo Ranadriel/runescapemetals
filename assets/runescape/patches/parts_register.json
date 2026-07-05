@@ -1,0 +1,242 @@
+[
+	{
+		"file": "game:itemtypes/part/hoop.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/hoop.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/hoop.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/hoop.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/part/boss.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/boss.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/boss.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/boss.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/part/poundercap.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/poundercap.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/poundercap.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/poundercap.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/crowbar.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/crowbar.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/crowbar.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/crowbar.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/wrench.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/wrench.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/wrench.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/wrench.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/part/bracket.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/bracket.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/bracket.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/bracket.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/part/hub.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/hub.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/hub.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/hub.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/tongsmetal.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/tongsmetal.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/tongsmetal.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/tongsmetal.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/part/rod.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/part/rod.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/part/rod.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/part/rod.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:itemtypes/tool/punchset.json",
+		"op": "add",
+		"path": "/variantgroups/2/states/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:itemtypes/tool/punchset.json",
+		"op": "add",
+		"path": "/variantgroups/2/states/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:itemtypes/tool/punchset.json",
+		"op": "add",
+		"path": "/variantgroups/2/states/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:itemtypes/tool/punchset.json",
+		"op": "add",
+		"path": "/variantgroups/2/states/-",
+		"value": "dragon"
+	}
+]

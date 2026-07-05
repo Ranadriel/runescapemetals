@@ -1,0 +1,61 @@
+{
+ "code": "birdsnare",
+ "class": "BlockBirdSnare",
+ "entityClass": "BEBirdSnare",
+ "variantgroups": [
+  {
+   "code": "tier",
+   "states": ["copper", "tinbronze", "iron", "steel", "mithril", "adamantite", "runite"]
+  }
+ ],
+ "shape": { "base": "runescape:block/birdsnare" },
+ "textures": {
+  "rope": { "base": "game:item/resource/rope" },
+  "stick": { "base": "game:block/wood/debarked/pine" }
+ },
+ "creativeinventory": { "general": ["*"] },
+ "blockmaterial": "Cloth",
+ "replaceable": 600,
+ "resistance": 0.5,
+ "lightAbsorption": 0,
+ "sideopaque": { "all": false },
+ "sidesolid": { "all": false },
+ "emitsideao": { "all": false },
+ "collisionbox": null,
+ "selectionbox": { "x1": 0.1, "y1": 0, "z1": 0.1, "x2": 0.9, "y2": 0.1, "z2": 0.9 },
+ "sounds": {
+  "walk": "walk/grass",
+  "place": "block/cloth",
+  "break": "block/cloth"
+ },
+ "maxStackSize": 16,
+ "attributes": {
+  "snaretier": "@(.*)",
+  "catchchance": {
+   "copper":     0.45,
+   "tinbronze":  0.55,
+   "iron":       0.65,
+   "steel":      0.72,
+   "mithril":    0.80,
+   "adamantite": 0.87,
+   "runite":     0.94
+  },
+  "tierordinal": {
+   "copper":     1,
+   "tinbronze":  2,
+   "iron":       3,
+   "steel":      4,
+   "mithril":    5,
+   "adamantite": 6,
+   "runite":     7
+  }
+ },
+ "guiTransform": {
+  "origin": { "x": 0.5, "y": 0.1, "z": 0.5 },
+  "scale": 2.0
+ },
+ "groundTransform": {
+  "origin": { "x": 0.5, "y": 0, "z": 0.5 },
+  "scale": 2.0
+ }
+}

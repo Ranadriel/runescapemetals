@@ -1,0 +1,6 @@
+[
+	{ "file": "game:recipes/grid/tool/axe.json", "op": "add", "path": "/0/ingredients/T/allowedVariants/-", "value": "mithril" },
+	{ "file": "game:recipes/grid/tool/axe.json", "op": "add", "path": "/0/ingredients/T/allowedVariants/-", "value": "adamantite" },
+	{ "file": "game:recipes/grid/tool/axe.json", "op": "add", "path": "/0/ingredients/T/allowedVariants/-", "value": "runite" },
+	{ "file": "game:recipes/grid/tool/axe.json", "op": "add", "path": "/0/ingredients/T/allowedVariants/-", "value": "dragon" }
+]

@@ -1,0 +1,173 @@
+{
+ "code": "launder",
+ "class": "BlockLaunder",
+ "entityClass": "BELaunder",
+ "variantgroups": [
+  {
+   "code": "side",
+   "states": [
+    "ns",
+    "we"
+   ]
+  }
+ ],
+ "shape": {
+  "base": "runescape:block/launder"
+ },
+ "shapeByType": {
+  "launder-we": {
+   "base": "runescape:block/launder",
+   "rotateY": 90
+  }
+ },
+ "creativeinventory": {
+  "general": [
+   "*-ns"
+  ],
+  "decorative": [
+   "*-ns"
+  ]
+ },
+ "blockmaterial": "Metal",
+ "replaceable": 300,
+ "resistance": 8,
+ "maxStackSize": 8,
+ "lightAbsorption": 0,
+ "sideopaque": {
+  "all": false
+ },
+ "sidesolid": {
+  "all": false
+ },
+ "emitsideao": {
+  "all": false
+ },
+ "collisionSelectionBoxesByType": {
+  "launder-ns": [
+   {
+    "x1": 0.109375,
+    "y1": 0.515625,
+    "z1": 0.609375,
+    "x2": 0.390625,
+    "y2": 0.734375,
+    "z2": 1
+   },
+   {
+    "x1": 0.34375,
+    "y1": 0.46875,
+    "z1": 0.609375,
+    "x2": 0.890625,
+    "y2": 0.703125,
+    "z2": 0.890625
+   },
+   {
+    "x1": 0.609375,
+    "y1": 0.421875,
+    "z1": 0.109375,
+    "x2": 0.890625,
+    "y2": 0.671875,
+    "z2": 0.65625
+   },
+   {
+    "x1": 0.109375,
+    "y1": 0.421875,
+    "z1": 0.109375,
+    "x2": 0.65625,
+    "y2": 0.625,
+    "z2": 0.390625
+   },
+   {
+    "x1": 0.34375,
+    "y1": 0.609375,
+    "z1": 0.84375,
+    "x2": 0.765625,
+    "y2": 0.765625,
+    "z2": 1
+   }
+  ],
+  "launder-we": [
+   {
+    "x1": 0.609375,
+    "y1": 0.515625,
+    "z1": 0.609375,
+    "x2": 1,
+    "y2": 0.734375,
+    "z2": 0.890625
+   },
+   {
+    "x1": 0.609375,
+    "y1": 0.46875,
+    "z1": 0.109375,
+    "x2": 0.890625,
+    "y2": 0.703125,
+    "z2": 0.65625
+   },
+   {
+    "x1": 0.109375,
+    "y1": 0.421875,
+    "z1": 0.109375,
+    "x2": 0.65625,
+    "y2": 0.671875,
+    "z2": 0.390625
+   },
+   {
+    "x1": 0.109375,
+    "y1": 0.421875,
+    "z1": 0.34375,
+    "x2": 0.390625,
+    "y2": 0.625,
+    "z2": 0.890625
+   },
+   {
+    "x1": 0.84375,
+    "y1": 0.609375,
+    "z1": 0.234375,
+    "x2": 1,
+    "y2": 0.765625,
+    "z2": 0.65625
+   }
+  ]
+ },
+ "sounds": {
+  "walk": "walk/stone",
+  "place": "block/anvil",
+  "break": "block/anvil"
+ },
+ "heldTpIdleAnimation": "holdbothhandslarge",
+ "heldRightReadyAnimation": "heldblockready",
+ "heldTpUseAnimation": "twohandplaceblock",
+ "guiTransform": {
+  "origin": {
+   "x": 0.5,
+   "y": 0.6,
+   "z": 0.5
+  },
+  "scale": 1.2
+ },
+ "tpHandTransform": {
+  "translation": {
+   "x": -0.1,
+   "y": 0,
+   "z": -0.78
+  },
+  "rotation": {
+   "x": 100,
+   "y": 150,
+   "z": 75
+  },
+  "origin": {
+   "x": 0,
+   "y": 0.8,
+   "z": 0.3
+  },
+  "scale": 0.74
+ },
+ "groundTransform": {
+  "origin": {
+   "x": 0.5,
+   "y": 0,
+   "z": 0.5
+  },
+  "scale": 1.5
+ }
+}

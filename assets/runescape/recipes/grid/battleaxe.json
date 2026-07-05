@@ -1,0 +1,11 @@
+{
+	"ingredientPattern": "AA,AS,_S",
+	"ingredients": {
+		"A": { "type": "item", "code": "game:axehead-*", "name": "metal", "allowedVariants": ["mithril", "adamantite", "runite", "dragon"] },
+		"S": { "type": "item", "code": "game:stick" }
+	},
+	"name": "battleaxe",
+	"width": 2,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:battleaxe-{metal}" }
+}

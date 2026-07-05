@@ -1,0 +1,138 @@
+[
+  {
+    "code": "mithril",
+    "triesPerChunk": 3.0,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-mithril",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "granite",
+          "basalt",
+          "andesite",
+          "peridotite",
+          "slate"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-mithril-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-granite": [
+            "poor",
+            "medium",
+            "rich",
+            "bountiful"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-andesite": [
+            "poor",
+            "medium"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-slate": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "surfaceBlock": {
+        "code": "looseores-mithril-{rock}-free"
+      },
+      "surfaceBlockChance": 0.2,
+      "radius": {
+        "dist": "uniform",
+        "avg": 12,
+        "var": 4
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.75,
+        "var": 0.25
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  },
+  {
+    "code": "mithril",
+    "triesPerChunk": 0.5,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-mithril",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "granite",
+          "basalt",
+          "andesite",
+          "peridotite",
+          "slate"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-mithril-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-granite": [
+            "poor",
+            "medium",
+            "rich",
+            "bountiful"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-andesite": [
+            "poor",
+            "medium"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-slate": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "radius": {
+        "dist": "gaussian",
+        "avg": 24,
+        "var": 4
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.65,
+        "var": 0.25
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  }
+]

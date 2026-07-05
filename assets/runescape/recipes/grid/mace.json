@@ -1,0 +1,11 @@
+{
+	"ingredientPattern": "H,S,S",
+	"ingredients": {
+		"H": { "type": "item", "code": "game:hammerhead-*", "name": "metal", "allowedVariants": ["mithril", "adamantite", "runite", "dragon"] },
+		"S": { "type": "item", "code": "game:stick" }
+	},
+	"name": "mace",
+	"width": 1,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:mace-{metal}" }
+}

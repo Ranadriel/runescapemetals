@@ -1,0 +1,58 @@
+[
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "add",
+    "path": "/combustiblePropsByType/*-mithril",
+    "value": {
+      "meltingPoint": 1727,
+      "meltingDuration": 34.5,
+      "smeltedRatio": 20,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-mithril"
+      }
+    }
+  },
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "add",
+    "path": "/combustiblePropsByType/*-adamantite",
+    "value": {
+      "meltingPoint": 1953,
+      "meltingDuration": 39.0,
+      "smeltedRatio": 20,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-adamantite"
+      }
+    }
+  },
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "add",
+    "path": "/combustiblePropsByType/*-runite",
+    "value": {
+      "meltingPoint": 2253,
+      "meltingDuration": 45.0,
+      "smeltedRatio": 20,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-runite"
+      }
+    }
+  },
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "add",
+    "path": "/combustiblePropsByType/*-dragon",
+    "value": {
+      "meltingPoint": 2629,
+      "meltingDuration": 52.5,
+      "smeltedRatio": 20,
+      "smeltedStack": {
+        "type": "item",
+        "code": "ingot-dragon"
+      }
+    }
+  }
+]

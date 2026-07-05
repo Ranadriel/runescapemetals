@@ -1,0 +1,124 @@
+[
+  {
+    "code": "adamantite",
+    "triesPerChunk": 1.75,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-adamantite",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "granite",
+          "peridotite",
+          "kimberlite",
+          "basalt"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-adamantite-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-granite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "surfaceBlock": {
+        "code": "looseores-adamantite-{rock}-free"
+      },
+      "surfaceBlockChance": 0.2,
+      "radius": {
+        "dist": "uniform",
+        "avg": 10,
+        "var": 3
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.65,
+        "var": 0.2
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  },
+  {
+    "code": "adamantite",
+    "triesPerChunk": 0.2915,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-adamantite",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "granite",
+          "peridotite",
+          "kimberlite",
+          "basalt"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-adamantite-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-granite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "radius": {
+        "dist": "gaussian",
+        "avg": 20,
+        "var": 3
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.55,
+        "var": 0.2
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  }
+]

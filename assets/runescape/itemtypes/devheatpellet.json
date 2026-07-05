@@ -1,0 +1,16 @@
+{
+  "code": "devheatpellet",
+  "class": "Item",
+  "texture": { "base": "runescape:item/devheatpellet" },
+  "maxstacksize": 999,
+  "combustibleProps": {
+    "burnTemperature": 3000,
+    "burnDuration": 7200,
+    "smeltingRatio": 0,
+    "smokeLevel": 0
+  },
+  "creativeinventory": {
+    "general": ["*"],
+    "items": ["*"]
+  }
+}

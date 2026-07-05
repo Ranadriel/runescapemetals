@@ -1,0 +1,16 @@
+[
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/tooltierbytype/*-mithril",    "value": 5 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/tooltierbytype/*-adamantite", "value": 6 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/tooltierbytype/*-runite",     "value": 7 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/tooltierbytype/*-dragon",     "value": 8 },
+
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/durabilitybytype/wrench-mithril",    "value": 5175 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/durabilitybytype/wrench-adamantite", "value": 5850 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/durabilitybytype/wrench-runite",     "value": 6750 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/durabilitybytype/wrench-dragon",     "value": 7875 },
+
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/attackpowerbytype/wrench-mithril",    "value": 2.875 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/attackpowerbytype/wrench-adamantite", "value": 3.25 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/attackpowerbytype/wrench-runite",     "value": 3.75 },
+	{ "file": "game:itemtypes/tool/wrench.json", "op": "add", "path": "/attackpowerbytype/wrench-dragon",     "value": 4.4 }
+]

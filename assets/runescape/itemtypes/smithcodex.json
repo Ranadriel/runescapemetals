@@ -1,0 +1,39 @@
+{
+	code: "smithcodex",
+	class: "ItemSmithCodex",
+	storageFlags: 1,
+	creativeinventory: { "general": ["*"], "items": ["*"] },
+	maxstacksize: 1,
+	heldTpUseAnimation: "interactstatic",
+	heldTpHitAnimation: null,
+	shape: { base: "game:item/lore/book" },
+	texture: { base: "game:item/lore/book4" },
+	textures: {
+		"book": { base: "game:item/lore/book4" },
+		"pages": { base: "game:item/lore/book4" }
+	},
+	guiTransform: {
+		translation: { x: 2, y: 3, z: 0 },
+		rotation: { x: -90, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0.5, z: 0.5 },
+		scale: 2.6
+	},
+	groundTransform: {
+		translation: { x: 0, y: 0, z: 0 },
+		rotation: { x: 90, y: 0, z: 0 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 2.5
+	},
+	fpHandTransform: {
+		translation: { x: 0.0, y: -0.05, z: 0.0 },
+		rotation: { x: 30, y: 6, z: -3 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 0.75
+	},
+	tpHandTransform: {
+		translation: { x: -0.95, y: -0.2, z: -0.75 },
+		rotation: { x: 0, y: -90, z: 0 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 0.6
+	}
+}

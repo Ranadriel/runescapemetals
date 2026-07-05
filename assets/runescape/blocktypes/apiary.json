@@ -1,0 +1,44 @@
+{
+	"code": "apiary",
+	"class": "BlockApiary",
+	"entityClassByType": {
+		"*-populated-*": "BEApiary",
+		"*-harvestable-*": "BEApiary"
+	},
+	"variantgroups": [
+		{ "code": "type", "states": ["empty", "populated", "harvestable"] },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"shapeByType": {
+		"*-north": { "base": "game:block/beehive/skep-{type}", "rotateY": 0 },
+		"*-east":  { "base": "game:block/beehive/skep-{type}", "rotateY": 270 },
+		"*-south": { "base": "game:block/beehive/skep-{type}", "rotateY": 180 },
+		"*-west":  { "base": "game:block/beehive/skep-{type}", "rotateY": 90 }
+	},
+	"textures": {
+		"hive": { "base": "game:block/wood/planks/oak1" },
+		"honeycomb": { "base": "game:block/reed/beehive/honeycomb" }
+	},
+	"creativeinventory": { "general": ["*-empty-east"], "decorative": ["*-empty-east"] },
+	"blockmaterial": "Wood",
+	"replaceable": 500,
+	"resistance": 3.5,
+	"maxStackSize": 1,
+	"lightAbsorption": 0,
+	"sideopaque": { "all": false },
+	"sidesolid": { "all": false },
+	"emitsideao": { "all": false },
+	"collisionSelectionBoxes": [
+		{ "x1": 0.125, "y1": 0, "z1": 0.125, "x2": 0.875, "y2": 0.75, "z2": 0.875 }
+	],
+	"drops": [
+		{ "type": "block", "code": "apiary-empty-east", "quantity": { "avg": 1 } }
+	],
+	"dropBlockFace": "east",
+	"sounds": {
+		"walk": "walk/wood",
+		"place": "block/planks",
+		"break": "block/planks",
+		"hit": "block/planks"
+	}
+}

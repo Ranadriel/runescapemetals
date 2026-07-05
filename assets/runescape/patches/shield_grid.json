@@ -1,0 +1,1634 @@
+[
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/0/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/1/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/2/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/3/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/4/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/5/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/6/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/7/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/8/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/9/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/10/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/11/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/12/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/13/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/14/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/15/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/16/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/17/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/18/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/19/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/20/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/21/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/22/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/23/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/24/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/25/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/26/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/B/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/B/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/B/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/B/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/H/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/H/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/H/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/H/allowedVariants/-",
+		"value": "dragon"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/P/allowedVariants/-",
+		"value": "mithril"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/P/allowedVariants/-",
+		"value": "adamantite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/P/allowedVariants/-",
+		"value": "runite"
+	},
+	{
+		"file": "game:recipes/grid/tool/roundshield.json",
+		"op": "add",
+		"path": "/27/ingredients/P/allowedVariants/-",
+		"value": "dragon"
+	}
+]

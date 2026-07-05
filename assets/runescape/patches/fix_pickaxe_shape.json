@@ -1,0 +1,10 @@
+[
+	{ "file": "game:itemtypes/tool/pickaxe.json",            "op": "add", "path": "/shapeByType/@pickaxe-(mithril|adamantite|runite|dragon)",            "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json",    "op": "add", "path": "/shapeByType/@pickaxehead-(mithril|adamantite|runite|dragon)",        "value": { "base": "item/tool/pickaxe-iron" } },
+
+	{ "file": "game:itemtypes/tool/crowbar.json",            "op": "add", "path": "/shapeByType/@crowbar-(mithril|adamantite|runite|dragon)",            "value": { "base": "item/tool/crowbar-iron" } },
+
+	{ "file": "game:itemtypes/toolhead/spearhead.json",      "op": "add", "path": "/shapeByType/@spearhead-(mithril|adamantite|runite|dragon)",          "value": { "base": "item/tool/spear/metal-iron" } },
+
+	{ "file": "game:itemtypes/toolhead/knifeblade.json",     "op": "add", "path": "/shapeByType/@knifeblade-(mithril|adamantite|runite|dragon)",         "value": { "base": "item/tool/knife/copper" } }
+]

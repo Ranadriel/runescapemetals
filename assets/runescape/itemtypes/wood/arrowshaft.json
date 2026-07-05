@@ -1,0 +1,17 @@
+{
+	"code": "arrowshaft",
+	"maxstacksize": 128,
+	"texture": { "base": "runescape:item/wood/arrowshaft" },
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"materialDensity": 400,
+	"combustibleProps": {
+		"burnTemperature": 600,
+		"burnDuration": 6
+	},
+	"guiTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0.5, "z": 0 },
+		"scale": 1.6
+	}
+}

@@ -1,0 +1,46 @@
+[
+	{
+		"file": "game:itemtypes/resource/metallamellae.json",
+		"op": "add",
+		"path": "/combustiblePropsByType/metallamellae-mithril",
+		"value": {
+			"meltingPoint": 1727,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltedStack": { "type": "item", "code": "ingot-mithril", "stacksize": 1 }
+		}
+	},
+	{
+		"file": "game:itemtypes/resource/metallamellae.json",
+		"op": "add",
+		"path": "/combustiblePropsByType/metallamellae-adamantite",
+		"value": {
+			"meltingPoint": 1953,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltedStack": { "type": "item", "code": "ingot-adamantite", "stacksize": 1 }
+		}
+	},
+	{
+		"file": "game:itemtypes/resource/metallamellae.json",
+		"op": "add",
+		"path": "/combustiblePropsByType/metallamellae-runite",
+		"value": {
+			"meltingPoint": 2253,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltedStack": { "type": "item", "code": "ingot-runite", "stacksize": 1 }
+		}
+	},
+	{
+		"file": "game:itemtypes/resource/metallamellae.json",
+		"op": "add",
+		"path": "/combustiblePropsByType/metallamellae-dragon",
+		"value": {
+			"meltingPoint": 2629,
+			"meltingDuration": 30,
+			"smeltedRatio": 1,
+			"smeltedStack": { "type": "item", "code": "ingot-dragon", "stacksize": 1 }
+		}
+	}
+]

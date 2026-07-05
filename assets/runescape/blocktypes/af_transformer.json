@@ -1,0 +1,23 @@
+{
+	"code": "af_transformer",
+	"class": "BlockArcFurnaceTransformer",
+	"entityClass": "BEMultiblockPart",
+	"variantgroups": [
+		{ "code": "side", "states": ["north", "east", "south", "west"] }
+	],
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/af_transformer" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 8,
+	"materialDensity": 5000,
+	"blockmaterial": "Metal",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

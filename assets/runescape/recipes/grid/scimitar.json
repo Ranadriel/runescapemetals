@@ -1,0 +1,11 @@
+{
+	"ingredientPattern": "_B,BS,S_",
+	"ingredients": {
+		"B": { "type": "item", "code": "game:bladehead-falx-*", "name": "metal", "allowedVariants": ["mithril", "adamantite", "runite", "dragon"] },
+		"S": { "type": "item", "code": "game:stick" }
+	},
+	"name": "scimitar",
+	"width": 2,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:scimitar-{metal}" }
+}

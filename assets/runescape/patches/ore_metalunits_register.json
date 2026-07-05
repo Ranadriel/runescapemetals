@@ -1,0 +1,194 @@
+[
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-poor-mithril-*",
+    "value": 15
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-medium-mithril-*",
+    "value": 20
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-rich-mithril-*",
+    "value": 25
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-mithril-*",
+    "value": 35
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-poor-adamantite-*",
+    "value": 15
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-medium-adamantite-*",
+    "value": 20
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-rich-adamantite-*",
+    "value": 25
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-adamantite-*",
+    "value": 35
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-poor-runite-*",
+    "value": 15
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-medium-runite-*",
+    "value": 20
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-rich-runite-*",
+    "value": 25
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-runite-*",
+    "value": 35
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-poor-dragon-*",
+    "value": 15
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-medium-dragon-*",
+    "value": 20
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-rich-dragon-*",
+    "value": 25
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-bountiful-dragon-*",
+    "value": 35
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-poor-mithril-*",
+    "value": 30
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-medium-mithril-*",
+    "value": 40
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-rich-mithril-*",
+    "value": 50
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-bountiful-mithril-*",
+    "value": 70
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-poor-adamantite-*",
+    "value": 30
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-medium-adamantite-*",
+    "value": 40
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-rich-adamantite-*",
+    "value": 50
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-bountiful-adamantite-*",
+    "value": 70
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-poor-runite-*",
+    "value": 30
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-medium-runite-*",
+    "value": 40
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-rich-runite-*",
+    "value": 50
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-bountiful-runite-*",
+    "value": 70
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-poor-dragon-*",
+    "value": 30
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-medium-dragon-*",
+    "value": 40
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-rich-dragon-*",
+    "value": 50
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-bountiful-dragon-*",
+    "value": 70
+  }
+]

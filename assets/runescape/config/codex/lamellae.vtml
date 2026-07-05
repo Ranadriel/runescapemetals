@@ -1,0 +1,25 @@
+<strong>Lamellae &amp; the casting workflow</strong>
+
+Lamellae are individual metal scales, cast — not smithed — and assembled into lamellar armor via the grid crafting recipe.
+
+<strong>Making the mold</strong>
+1. Gather clay (blue, fire, or red — all work) and open the clayforming interface.
+2. Clayform a lamellae mold using the vanilla pattern (12 shallow rectangular cells arranged 3×4).
+3. Fire the mold in a kiln until it hardens.
+
+<strong>Filling the mold</strong>
+• <strong>Direct pour</strong> — hold a crucible with molten metal, aim at the mold, sneak + right-click. The mold fills to capacity; when it cools, you have 12 lamellae.
+• <strong>Scoop pour</strong> — draw molten metal into the <a href="scoop">magma scoop</a> from a large crucible or launder, then pour into the mold. Best for tier-3 crucibles where sneak+right-click is awkward.
+• <strong>Launder pour</strong> — for bulk pours (many molds in a row), fill a launder from a tipping crucible-machine and use the scoop to move melt from the launder to each mold in turn.
+
+<strong>Tier gating</strong>
+• Mithril lamellae — molten mithril from adamantite <a href="crucible">crucible</a> or better.
+• Adamantite lamellae — molten adamantite from adamantite crucible or better.
+• Runite lamellae — molten runite from <strong>dragon crucible only</strong>.
+• Dragon lamellae — molten dragon from <strong>dragon crucible only</strong>.
+
+<strong>Assembly</strong>
+One lamellar armor piece = several lamellae + one leather strap, arranged in the standard vanilla lamellar grid. Head / body / legs each have their own arrangement.
+
+<strong>Salvaging</strong>
+Individual lamellae can be melted back to their source ingot in a crucible of matching tier or better. Useful for failed cycles or metal reclamation.

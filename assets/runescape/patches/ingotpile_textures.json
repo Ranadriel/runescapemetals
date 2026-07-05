@@ -1,0 +1,26 @@
+[
+  {
+    "file": "game:blocktypes/legacy/ingotpile.json",
+    "op": "add",
+    "path": "/textures/mithril",
+    "value": { "base": "block/metal/ingot/mithril" }
+  },
+  {
+    "file": "game:blocktypes/legacy/ingotpile.json",
+    "op": "add",
+    "path": "/textures/adamantite",
+    "value": { "base": "block/metal/ingot/adamantite" }
+  },
+  {
+    "file": "game:blocktypes/legacy/ingotpile.json",
+    "op": "add",
+    "path": "/textures/runite",
+    "value": { "base": "block/metal/ingot/runite" }
+  },
+  {
+    "file": "game:blocktypes/legacy/ingotpile.json",
+    "op": "add",
+    "path": "/textures/dragon",
+    "value": { "base": "block/metal/ingot/dragon" }
+  }
+]

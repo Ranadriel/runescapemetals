@@ -1,0 +1,20 @@
+[
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/*-limonite/smeltedStack",
+    "value": { "type": "item", "code": "ingot-iron" }
+  },
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/*-hematite/smeltedStack",
+    "value": { "type": "item", "code": "ingot-iron" }
+  },
+  {
+    "file": "game:itemtypes/resource/nugget.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/*-magnetite/smeltedStack",
+    "value": { "type": "item", "code": "ingot-iron" }
+  }
+]

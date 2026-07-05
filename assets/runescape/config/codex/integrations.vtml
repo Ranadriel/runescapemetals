@@ -1,0 +1,13 @@
+<strong>Optional mod integrations</strong>
+
+<strong>Rune-Story</strong> (if loaded)
+Runic pickaxes become craftable at high tier. The runic pickaxe qualifies as runite-tier for dragon mining.
+
+<strong>Primitive Survival</strong> (if loaded)
+The <a href="metals">metal ladder</a> extends into PS content:
+• Mithril / adamantite / runite / dragon fishing hooks.
+• Mithril / adamantite / runite / dragon fishing lures.
+• Mithril / adamantite / runite / dragon spike-plate traps.
+
+<strong>Lang patches</strong>
+Included for PS items so display names read correctly when the integration loads.

@@ -1,0 +1,30 @@
+{
+	"code": "halberd",
+	"tags": ["weapon", "weapon-melee", "weapon-spear"],
+	"damagedby": ["attacking"],
+	"variantgroups": [
+		{ "code": "metal", "states": ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	"shape": { "base": "runescape:item/tool/halberd" },
+	"textures": {
+		"head": { "base": "runescape:block/metal/ingot/{metal}" },
+		"handle": { "base": "game:block/wood/debarked/aged" }
+	},
+	"attackpowerbytype": {
+		"halberd-mithril": 7,
+		"halberd-adamantite": 8,
+		"halberd-runite": 9,
+		"halberd-dragon": 11
+	},
+	"attributes": {
+		"attackrange": 4.5
+	},
+	"heldTpIdleAnimation": "spearidle",
+	"heldRightReadyAnimation": "spearidle",
+	"heldTpHitAnimation": "spearhit",
+	"maxstacksize": 1,
+	"creativeinventory": { "general": ["*"], "items": ["*"], "tools": ["*"] },
+	"guiTransform": { "rotate": false, "translation":{"x":-41,"y":45,"z":0}, "rotation":{"x":-90,"y":50,"z":-90}, "origin":{"x":0.61,"y":0,"z":0.47}, "scale":1.69 },
+	"tpHandTransform": { "translation":{"x":0,"y":0,"z":-0.5}, "rotation":{"x":-90,"y":0,"z":-90}, "origin":{"x":0.5,"y":0,"z":0.5}, "scale":1.0 },
+	"groundTransform": { "translation":{"x":0,"y":0,"z":0}, "rotation":{"x":0,"y":0,"z":90}, "origin":{"x":0.5,"y":0.5,"z":0.5}, "scale":2.6 }
+}

@@ -1,0 +1,44 @@
+{
+	code: "magmaportion",
+	class: "ItemLiquidPortion",
+	matterState: "liquid",
+	variantgroups: [
+		{ code: "metal", states: ["mithril", "adamantite", "runite", "dragon"] }
+	],
+	attributes: {
+		handbook: { ignoreCreativeInvStacks: true },
+		// metal lookup used by transfer code to verify same-metal merging
+		metal: "{metal}",
+		waterTightContainerProps: {
+			containable: true,
+			itemsPerLitre: 100,
+			texture: { base: "game:block/liquid/lava" },
+			tintIndex: 0,
+			// whenSpilled intentionally omitted: this liquid cannot be poured
+			// into the world. It exists ONLY inside the magma scoop and the
+			// new tipper crucibles. Any "use it on water/air/ground" path is
+			// rejected by BlockMagmaScoop.OnHeldInteractStart.
+			allowSpill: false
+		}
+	},
+	textures: {
+		"mithril":    { base: "runescape:block/metal/ingot/mithril" },
+		"adamantite": { base: "runescape:block/metal/ingot/adamantite" },
+		"runite":     { base: "runescape:block/metal/ingot/runite" },
+		"dragon":     { base: "runescape:block/metal/ingot/dragon" }
+	},
+	shape: { base: "game:item/liquid" },
+	texture: { base: "game:block/liquid/lava" },
+	creativeinventory: { },
+	maxstacksize: 5000,
+	materialDensity: 5000,
+	guiTransform: {
+		translation: { x: 0, y: 1, z: 0 },
+		rotation: { x: 123, y: -33, z: -13 },
+		origin: { x: 0.5, y: 0, z: 0.5 },
+		scale: 1.4
+	},
+	tpHandTransform: {
+		translation: { x: -1.5, y: -1, z: -1.4 }
+	}
+}

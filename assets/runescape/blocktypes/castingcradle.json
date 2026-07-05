@@ -1,0 +1,38 @@
+{
+	"code": "castingcradle",
+	"class": "BlockCastingCradle",
+	"entityClass": "BECastingCradle",
+	"behaviors": [
+		{ "name": "HorizontalOrientable" }
+	],
+	"entityBehaviors": [
+		{ "name": "Animatable" }
+	],
+	"variantgroups": [
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"shapebytype": {
+		"*-north": { "base": "runescape:block/castingcradle", "rotateY": 0 },
+		"*-east":  { "base": "runescape:block/castingcradle", "rotateY": 270 },
+		"*-south": { "base": "runescape:block/castingcradle", "rotateY": 180 },
+		"*-west":  { "base": "runescape:block/castingcradle", "rotateY": 90 }
+	},
+	"textures": {
+		"metal": { "base": "runescape:block/castingcradle" }
+	},
+	"creativeinventory": { "general": ["*-north"], "items": ["*-north"] },
+	"sideopaque": { "all": false },
+	"sidesolid": { "all": false },
+	"resistance": 4,
+	"materialDensity": 5000,
+	"blockmaterial": "Metal",
+	"maxStackSize": 1,
+	"drops": [
+		{ "type": "block", "code": "castingcradle-north", "quantity": { "avg": 1 } }
+	],
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

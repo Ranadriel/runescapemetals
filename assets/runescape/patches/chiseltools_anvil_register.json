@@ -1,0 +1,42 @@
+[
+	{
+		"file": "chiseltools:blocktypes/chiseledanvil.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "mithril",
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	},
+	{
+		"file": "chiseltools:blocktypes/chiseledanvil.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "adamantite",
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	},
+	{
+		"file": "chiseltools:blocktypes/chiseledanvil.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "runite",
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	},
+	{
+		"file": "chiseltools:blocktypes/chiseledanvil.json",
+		"op": "add",
+		"path": "/variantgroups/0/states/-",
+		"value": "dragon",
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	},
+	{
+		"file": "chiseltools:blocktypes/chiseledanvil.json",
+		"op": "add",
+		"path": "/texturesByType",
+		"value": {
+			"chiseledanvil-mithril":    { "all": { "base": "runescape:block/metal/anvil/mithril" } },
+			"chiseledanvil-adamantite": { "all": { "base": "runescape:block/metal/anvil/adamantite" } },
+			"chiseledanvil-runite":     { "all": { "base": "runescape:block/metal/anvil/runite" } },
+			"chiseledanvil-dragon":     { "all": { "base": "runescape:block/metal/anvil/dragon" } }
+		},
+		"dependsOn": [ { "modid": "chiseltools" } ]
+	}
+]

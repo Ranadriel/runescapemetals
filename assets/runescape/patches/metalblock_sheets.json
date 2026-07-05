@@ -1,0 +1,30 @@
+[
+	{
+		"file": "game:blocktypes/metal/metalblock.json",
+		"op": "add",
+		"path": "/variantgroups/1/states/-",
+		"value": "sheet"
+	},
+	{
+		"file": "game:blocktypes/metal/metalblock.json",
+		"op": "add",
+		"path": "/skipVariants/-",
+		"value": "metalblock-new-sheet-*"
+	},
+	{
+		"file": "game:blocktypes/metal/metalblock.json",
+		"op": "add",
+		"path": "/skipVariants/-",
+		"value": "metalblock-corroded-sheet-copper"
+	},
+	{
+		"file": "game:blocktypes/metal/metalblock.json",
+		"op": "add",
+		"path": "/texturesByType/metalblock-corroded-sheet-*",
+		"value": {
+			"all": {
+				"base": "block/metal/tarnished/{metal}"
+			}
+		}
+	}
+]

@@ -1,0 +1,67 @@
+{
+ "textureWidth": 16,
+ "textureHeight": 16,
+ "textures": {
+  "rope": "game:item/resource/rope",
+  "stick": "game:block/wood/debarked/pine"
+ },
+ "elements": [
+  {
+   "name": "loop_n",
+   "from": [2, 0.2, 2],
+   "to": [14, 0.4, 3],
+   "faces": {
+    "north": { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "south": { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "up":    { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "down":  { "texture": "#rope", "uv": [0, 0, 12, 1] }
+   }
+  },
+  {
+   "name": "loop_s",
+   "from": [2, 0.2, 13],
+   "to": [14, 0.4, 14],
+   "faces": {
+    "north": { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "south": { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "up":    { "texture": "#rope", "uv": [0, 0, 12, 1] },
+    "down":  { "texture": "#rope", "uv": [0, 0, 12, 1] }
+   }
+  },
+  {
+   "name": "loop_w",
+   "from": [2, 0.2, 3],
+   "to": [3, 0.4, 13],
+   "faces": {
+    "east":  { "texture": "#rope", "uv": [0, 0, 10, 1] },
+    "west":  { "texture": "#rope", "uv": [0, 0, 10, 1] },
+    "up":    { "texture": "#rope", "uv": [0, 0, 1, 10] },
+    "down":  { "texture": "#rope", "uv": [0, 0, 1, 10] }
+   }
+  },
+  {
+   "name": "loop_e",
+   "from": [13, 0.2, 3],
+   "to": [14, 0.4, 13],
+   "faces": {
+    "east":  { "texture": "#rope", "uv": [0, 0, 10, 1] },
+    "west":  { "texture": "#rope", "uv": [0, 0, 10, 1] },
+    "up":    { "texture": "#rope", "uv": [0, 0, 1, 10] },
+    "down":  { "texture": "#rope", "uv": [0, 0, 1, 10] }
+   }
+  },
+  {
+   "name": "peg",
+   "from": [7.5, 0, 7.5],
+   "to": [8.5, 2.5, 8.5],
+   "faces": {
+    "north": { "texture": "#stick", "uv": [0, 0, 1, 2.5] },
+    "south": { "texture": "#stick", "uv": [0, 0, 1, 2.5] },
+    "east":  { "texture": "#stick", "uv": [0, 0, 1, 2.5] },
+    "west":  { "texture": "#stick", "uv": [0, 0, 1, 2.5] },
+    "up":    { "texture": "#stick", "uv": [0, 0, 1, 1] },
+    "down":  { "texture": "#stick", "uv": [0, 0, 1, 1] }
+   }
+  }
+ ]
+}

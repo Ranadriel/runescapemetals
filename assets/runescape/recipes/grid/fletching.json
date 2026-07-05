@@ -1,0 +1,183 @@
+[
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 8 },
+			"L": { "type": "block", "code": "game:log-placed-*-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "arrowshaft", "quantity": 16 }
+	},
+	{
+		"ingredientPattern": "F,S",
+		"ingredients": {
+			"F": { "type": "item", "code": "game:feather" },
+			"S": { "type": "item", "code": "arrowshaft", "quantity": 4 }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "headlessarrow", "quantity": 4 }
+	},
+	{
+		"ingredientPattern": "H,A",
+		"ingredients": {
+			"H": { "type": "item", "code": "game:arrowhead-*", "name": "metal", "quantity": 4 },
+			"A": { "type": "item", "code": "headlessarrow", "quantity": 4 }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "game:arrow-{metal}", "quantity": 4 }
+	},
+	{
+		"ingredientPattern": "T,T,T",
+		"ingredients": {
+			"T": { "type": "item", "code": "game:flaxtwine" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "bowstring", "quantity": 1 }
+	},
+
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-*", "allowedVariants": ["placed-pine-ud", "placed-birch-ud"] }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-common", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-*", "allowedVariants": ["placed-pine-ud", "placed-birch-ud"] }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-common", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-placed-oak-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-oak", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-placed-oak-ud" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-oak", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-placed-baldcypress-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-willow", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-placed-baldcypress-ud" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-willow", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-placed-maple-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-maple", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-placed-maple-ud" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-maple", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-placed-larch-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-yew", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-placed-larch-ud" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-yew", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 10 },
+			"L": { "type": "block", "code": "game:log-placed-purpleheart-ud" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbowu-magic", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "K,L,L",
+		"ingredients": {
+			"K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 14 },
+			"L": { "type": "block", "code": "game:log-placed-purpleheart-ud" }
+		},
+		"width": 1,
+		"height": 3,
+		"output": { "type": "item", "code": "longbowu-magic", "quantity": 1 }
+	},
+
+	{
+		"ingredientPattern": "B,U",
+		"ingredients": {
+			"B": { "type": "item", "code": "bowstring" },
+			"U": { "type": "item", "code": "shortbowu-*", "name": "wood" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "shortbow-{wood}", "quantity": 1 }
+	},
+	{
+		"ingredientPattern": "B,U",
+		"ingredients": {
+			"B": { "type": "item", "code": "bowstring" },
+			"U": { "type": "item", "code": "longbowu-*", "name": "wood" }
+		},
+		"width": 1,
+		"height": 2,
+		"output": { "type": "item", "code": "longbow-{wood}", "quantity": 1 }
+	}
+]

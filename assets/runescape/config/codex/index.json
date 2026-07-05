@@ -1,0 +1,109 @@
+{
+	"sections": [
+		{
+			"key": "overview",
+			"label": "Overview",
+			"category": "Start",
+			"file": "overview.vtml",
+			"seeAlso": ["metals", "quickstart"]
+		},
+		{
+			"key": "quickstart",
+			"label": "Quick start",
+			"category": "Start",
+			"file": "quickstart.vtml",
+			"seeAlso": ["metals", "crucible", "smithing"]
+		},
+		{
+			"key": "metals",
+			"label": "Metals ladder",
+			"category": "Progression",
+			"file": "metals.vtml",
+			"seeAlso": ["crucible", "smithing", "lamellae"]
+		},
+		{
+			"key": "crucible",
+			"label": "Crucibles",
+			"category": "Progression",
+			"file": "crucible.vtml",
+			"seeAlso": ["metals", "scoop", "superheater"]
+		},
+		{
+			"key": "superheater",
+			"label": "Superheater",
+			"category": "Progression",
+			"file": "superheater.vtml",
+			"seeAlso": ["crucible"]
+		},
+		{
+			"key": "smithing",
+			"label": "Smithing",
+			"category": "Crafts",
+			"file": "smithing.vtml",
+			"seeAlso": ["metals", "lamellae"]
+		},
+		{
+			"key": "lamellae",
+			"label": "Lamellae & casting",
+			"category": "Crafts",
+			"file": "lamellae.vtml",
+			"seeAlso": ["scoop", "crucible", "smithing"]
+		},
+		{
+			"key": "scoop",
+			"label": "Magma scoop",
+			"category": "Crafts",
+			"file": "scoop.vtml",
+			"seeAlso": ["crucible", "lamellae"]
+		},
+		{
+			"key": "fletching",
+			"label": "Fletching",
+			"category": "Crafts",
+			"file": "fletching.vtml",
+			"seeAlso": ["metals"]
+		},
+		{
+			"key": "specials",
+			"label": "Tier-scaled tools",
+			"category": "Crafts",
+			"file": "specials.vtml",
+			"seeAlso": ["smithing", "metals"]
+		},
+		{
+			"key": "hunter",
+			"label": "Hunter",
+			"category": "Skills",
+			"file": "hunter.vtml",
+			"seeAlso": ["metals"]
+		},
+		{
+			"key": "apiary",
+			"label": "Wooden skep apiary",
+			"category": "Living world",
+			"file": "apiary.vtml",
+			"seeAlso": []
+		},
+		{
+			"key": "packs",
+			"label": "Metal-framed packs",
+			"category": "Living world",
+			"file": "packs.vtml",
+			"seeAlso": ["metals"]
+		},
+		{
+			"key": "integrate",
+			"label": "Integrations",
+			"category": "Meta",
+			"file": "integrations.vtml",
+			"seeAlso": ["metals", "hunter"]
+		},
+		{
+			"key": "changelog",
+			"label": "What's new",
+			"category": "Meta",
+			"file": "changelog.vtml",
+			"seeAlso": []
+		}
+	]
+}

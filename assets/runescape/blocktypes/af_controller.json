@@ -1,0 +1,24 @@
+{
+	"code": "af_controller",
+	"class": "BlockArcFurnaceController",
+	"entityClass": "BEArcFurnaceController",
+	"variantgroups": [
+		{ "code": "side", "states": ["north", "east", "south", "west"] }
+	],
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/af_controller" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 8,
+	"materialDensity": 5000,
+	"replaceable": 0,
+	"blockmaterial": "Metal",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}

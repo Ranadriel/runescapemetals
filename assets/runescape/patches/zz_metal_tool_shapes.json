@@ -1,0 +1,57 @@
+[
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-mithril",    "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-adamantite", "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-runite",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/pickaxe-dragon",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/tool/pickaxe.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/pickaxe" } },
+
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-mithril",    "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-adamantite", "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-runite",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/pickaxehead-dragon",     "value": { "base": "item/tool/pickaxe-iron" } },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/toolhead/pickaxehead.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/pickaxe" } },
+
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-mithril",    "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-adamantite", "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-runite",     "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/axehead-dragon",     "value": { "base": "item/tool/axe/iron" } },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/toolhead/axehead.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/axe/stone" } },
+
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-mithril",    "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-adamantite", "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-runite",     "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/hoehead-dragon",     "value": { "base": "item/tool/hoe-copper" } },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/toolhead/hoehead.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/hoe-stone" } },
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-mithril",    "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-adamantite", "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-runite",     "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/shovelhead-dragon",     "value": { "base": "item/tool/shovelhead-copper" } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/shovel-stone" } },
+
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-mithril",    "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-adamantite", "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-runite",     "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/blade-falx-dragon",     "value": { "base": "item/tool/blade/falx/steel" } },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "remove", "path": "/shapeByType/*" },
+	{ "file": "game:itemtypes/tool/blade.json", "op": "add", "path": "/shapeByType/*", "value": { "base": "item/tool/blade/{type}" } },
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/guiTransformByType/shovelhead-mithril",    "value": { "translation": { "x": 0, "y": 0, "z": 120 }, "rotation": { "x": 15, "y": 70, "z": -75 }, "origin": { "x": 0.87, "y": 0.55, "z": 0.2 }, "scale": 2.42 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/guiTransformByType/shovelhead-adamantite", "value": { "translation": { "x": 0, "y": 0, "z": 120 }, "rotation": { "x": 15, "y": 70, "z": -75 }, "origin": { "x": 0.87, "y": 0.55, "z": 0.2 }, "scale": 2.42 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/guiTransformByType/shovelhead-runite",     "value": { "translation": { "x": 0, "y": 0, "z": 120 }, "rotation": { "x": 15, "y": 70, "z": -75 }, "origin": { "x": 0.87, "y": 0.55, "z": 0.2 }, "scale": 2.42 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/guiTransformByType/shovelhead-dragon",     "value": { "translation": { "x": 0, "y": 0, "z": 120 }, "rotation": { "x": 15, "y": 70, "z": -75 }, "origin": { "x": 0.87, "y": 0.55, "z": 0.2 }, "scale": 2.42 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "remove", "path": "/guiTransformByType/*" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/guiTransformByType/*", "value": { "translation": { "x": 0, "y": 0, "z": 120 }, "rotation": { "x": -45, "y": -134, "z": -180 }, "origin": { "x": 0.87, "y": 0.55, "z": 0.2 }, "scale": 3 } },
+
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/tpHandTransformByType/shovelhead-mithril",    "value": { "translation": { "x": 0, "y": 0, "z": -0.25 }, "rotation": { "x": 71, "y": 20, "z": 0 }, "origin": { "x": 0.1, "y": 0, "z": 0.25 }, "scale": 0.85 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/tpHandTransformByType/shovelhead-adamantite", "value": { "translation": { "x": 0, "y": 0, "z": -0.25 }, "rotation": { "x": 71, "y": 20, "z": 0 }, "origin": { "x": 0.1, "y": 0, "z": 0.25 }, "scale": 0.85 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/tpHandTransformByType/shovelhead-runite",     "value": { "translation": { "x": 0, "y": 0, "z": -0.25 }, "rotation": { "x": 71, "y": 20, "z": 0 }, "origin": { "x": 0.1, "y": 0, "z": 0.25 }, "scale": 0.85 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/tpHandTransformByType/shovelhead-dragon",     "value": { "translation": { "x": 0, "y": 0, "z": -0.25 }, "rotation": { "x": 71, "y": 20, "z": 0 }, "origin": { "x": 0.1, "y": 0, "z": 0.25 }, "scale": 0.85 } },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "remove", "path": "/tpHandTransformByType/*" },
+	{ "file": "game:itemtypes/toolhead/shovelhead.json", "op": "add", "path": "/tpHandTransformByType/*", "value": { "translation": { "x": 0, "y": -0.4, "z": -0.1 }, "rotation": { "x": 90, "y": 20, "z": 0 }, "scale": 0.85 } }
+]

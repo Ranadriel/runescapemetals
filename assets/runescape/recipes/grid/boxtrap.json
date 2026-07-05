@@ -1,0 +1,11 @@
+{
+	"ingredientPattern": "PPP,PMP,PPP",
+	"ingredients": {
+		"P": { "type": "item", "code": "game:plank-pine" },
+		"M": { "type": "item", "code": "game:metalnailsandstrips-*", "name": "tier", "allowedVariants": ["iron", "steel", "mithril", "adamantite", "runite"] }
+	},
+	"name": "boxtrap",
+	"width": 3,
+	"height": 3,
+	"output": { "type": "block", "code": "runescape:boxtrap-{tier}", "quantity": 1 }
+}

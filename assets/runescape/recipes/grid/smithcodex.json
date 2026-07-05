@@ -1,0 +1,11 @@
+{
+	"ingredientPattern": "I,P,L",
+	"ingredients": {
+		"I": { "type": "item", "code": "game:ingot-iron" },
+		"P": { "type": "item", "code": "game:paper-parchment", "quantity": 4 },
+		"L": { "type": "item", "code": "game:flaxtwine" }
+	},
+	"width": 1,
+	"height": 3,
+	"output": { "type": "item", "code": "runescape:smithcodex", "quantity": 1 }
+}

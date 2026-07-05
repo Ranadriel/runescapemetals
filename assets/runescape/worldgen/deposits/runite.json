@@ -1,0 +1,112 @@
+[
+  {
+    "code": "runite",
+    "triesPerChunk": 0.9,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-runite",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "peridotite",
+          "kimberlite",
+          "basalt"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-runite-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "surfaceBlock": {
+        "code": "looseores-runite-{rock}-free"
+      },
+      "surfaceBlockChance": 0.2,
+      "radius": {
+        "dist": "uniform",
+        "avg": 8,
+        "var": 3
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.55,
+        "var": 0.15
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  },
+  {
+    "code": "runite",
+    "triesPerChunk": 0.15,
+    "withOreMap": true,
+    "handbookPageCode": "item-nugget-runite",
+    "generator": "disc-followsealevel",
+    "attributes": {
+      "inblock": {
+        "code": "rock-*",
+        "name": "rock",
+        "allowedVariants": [
+          "peridotite",
+          "kimberlite",
+          "basalt"
+        ]
+      },
+      "placeblock": {
+        "code": "ore-*-runite-{rock}",
+        "name": "grade",
+        "allowedVariantsByInBlock": {
+          "rock-peridotite": [
+            "poor",
+            "medium",
+            "rich"
+          ],
+          "rock-kimberlite": [
+            "poor",
+            "medium"
+          ],
+          "rock-basalt": [
+            "poor",
+            "medium"
+          ]
+        }
+      },
+      "radius": {
+        "dist": "gaussian",
+        "avg": 16,
+        "var": 3
+      },
+      "yPosRel": {
+        "dist": "uniform",
+        "avg": 0.45,
+        "var": 0.15
+      },
+      "gradeDistribution": "RandomPlusDepthBonus",
+      "thickness": {
+        "dist": "uniform",
+        "avg": 1,
+        "var": 0
+      }
+    }
+  }
+]

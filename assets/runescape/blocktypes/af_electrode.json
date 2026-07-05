@@ -1,0 +1,20 @@
+{
+	"code": "af_electrode",
+	"class": "BlockMultiblockPart",
+	"entityClass": "BEMultiblockPart",
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/af_electrode" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 6,
+	"materialDensity": 3000,
+	"blockmaterial": "Stone",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/rock",
+		"break": "game:block/rock"
+	}
+}

@@ -1,0 +1,18 @@
+<strong>Smithing the four metals</strong>
+
+Once you have ingots of mithril, adamantite, runite, or dragon, smithing follows the vanilla anvil flow: place the ingot on the anvil, hold a hammer, sketch the work outline, knock the voxels into shape.
+
+<strong>Tool coverage</strong>
+Pickaxe, axe, sword, halberd, hammer, knife, shovel, prospecting pick, and the dragon-tier specials at the top of the ladder.
+
+<strong>Armor coverage — anvil-smithed</strong>
+Plate, chain, scale, brigandine. Standard smithing recipes; each tier extends the vanilla pattern.
+
+<strong>Armor coverage — mold-cast (see <a href="lamellae">Lamellae &amp; casting</a>)</strong>
+Lamellar. Lamellar armor is assembled from individual metal lamellae, and lamellae are <strong>cast in a clay lamellae mold from molten metal</strong>, not smithed.
+
+<strong>Bootstrap caveat</strong>
+The ladder is self-bootstrapping but strictly sequential. You cannot smith adamantite shell plates until you have an adamantite ingot, and you cannot smelt adamantite until you have an adamantite <a href="crucible">crucible</a>. Minimum path: clay crucible → first mithril ingots → mithril tools → smelt and smith adamantite shell → first adamantite crucible.
+
+<strong>Higher tools too</strong>
+See <a href="specials">Tier-scaled tools</a> for scythe/hoe/shears/axe scaling past steel.

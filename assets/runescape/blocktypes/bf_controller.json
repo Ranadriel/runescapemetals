@@ -1,0 +1,24 @@
+{
+	"code": "bf_controller",
+	"class": "BlockBlastFurnaceController",
+	"entityClass": "BEBlastFurnaceController",
+	"variantgroups": [
+		{ "code": "side", "states": ["north", "east", "south", "west"] }
+	],
+	"shape": { "base": "game:block/basic/cube" },
+	"textures": {
+		"all": { "base": "runescape:block/bf_controller" }
+	},
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"sideopaque": { "all": true },
+	"sidesolid": { "all": true },
+	"resistance": 6,
+	"materialDensity": 4000,
+	"replaceable": 0,
+	"blockmaterial": "Stone",
+	"sounds": {
+		"place": "game:block/anvil",
+		"hit": "game:block/anvil",
+		"break": "game:block/heavyice"
+	}
+}
