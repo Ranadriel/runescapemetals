@@ -1,0 +1,56 @@
+{
+	"code": "apiarypart",
+	"class": "BlockApiaryPart",
+	"variantgroups": [
+		{ "code": "part", "states": ["body", "roof"] },
+		{ "code": "type", "states": ["empty", "populated", "harvestable"] },
+		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"shapeByType": {
+		"*-body-*-north": { "base": "runescape:block/apiary/body", "rotateY": 0 },
+		"*-body-*-east":  { "base": "runescape:block/apiary/body", "rotateY": 270 },
+		"*-body-*-south": { "base": "runescape:block/apiary/body", "rotateY": 180 },
+		"*-body-*-west":  { "base": "runescape:block/apiary/body", "rotateY": 90 },
+		"*-roof-*-north": { "base": "runescape:block/apiary/roof", "rotateY": 0 },
+		"*-roof-*-east":  { "base": "runescape:block/apiary/roof", "rotateY": 270 },
+		"*-roof-*-south": { "base": "runescape:block/apiary/roof", "rotateY": 180 },
+		"*-roof-*-west":  { "base": "runescape:block/apiary/roof", "rotateY": 90 }
+	},
+	"texturesByType": {
+		"*-body-harvestable-*": {
+			"white": { "base": "runescape:block/apiary/white" },
+			"whitehi": { "base": "runescape:block/apiary/whitehi" },
+			"shade": { "base": "runescape:block/apiary/shade" },
+			"dark": { "base": "runescape:block/apiary/dark" },
+			"accent": { "base": "game:block/reed/beehive/honeycomb" }
+		},
+		"*": {
+			"white": { "base": "runescape:block/apiary/white" },
+			"whitehi": { "base": "runescape:block/apiary/whitehi" },
+			"shade": { "base": "runescape:block/apiary/shade" },
+			"dark": { "base": "runescape:block/apiary/dark" },
+			"accent": { "base": "runescape:block/apiary/white" }
+		}
+	},
+	"blockmaterial": "Wood",
+	"resistance": 3.5,
+	"lightAbsorption": 0,
+	"sideopaque": { "all": false },
+	"sidesolid": { "all": false },
+	"emitsideao": { "all": false },
+	"collisionSelectionBoxesByType": {
+		"*-body-*": [
+			{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 1.0, "z2": 1 }
+		],
+		"*-roof-*": [
+			{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.9, "z2": 1 }
+		]
+	},
+	"drops": [],
+	"sounds": {
+		"walk": "walk/wood",
+		"place": "block/planks",
+		"break": "block/planks",
+		"hit": "block/planks"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"code": "apiarysection",
+	"class": "BlockApiarySection",
+	"variantgroups": [
+		{ "code": "part", "states": ["base", "body", "roof"] }
+	],
+	"shapeByType": {
+		"*-base": { "base": "runescape:block/apiary/base" },
+		"*-body": { "base": "runescape:block/apiary/body" },
+		"*-roof": { "base": "runescape:block/apiary/roof" }
+	},
+	"textures": {
+		"white": { "base": "runescape:block/apiary/white" },
+		"whitehi": { "base": "runescape:block/apiary/whitehi" },
+		"shade": { "base": "runescape:block/apiary/shade" },
+		"dark": { "base": "runescape:block/apiary/dark" },
+		"accent": { "base": "runescape:block/apiary/white" }
+	},
+	"creativeinventory": { "general": ["*"] },
+	"blockmaterial": "Wood",
+	"resistance": 3.5,
+	"lightAbsorption": 0,
+	"sideopaque": { "all": false },
+	"sidesolid": { "all": false },
+	"emitsideao": { "all": false },
+	"collisionSelectionBoxesByType": {
+		"*-base": [
+			{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 1.0, "z2": 1 }
+		],
+		"*-body": [
+			{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 1.0, "z2": 1 }
+		],
+		"*-roof": [
+			{ "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.9, "z2": 1 }
+		]
+	},
+	"drops": [
+		{ "type": "block", "code": "apiarysection-{part}", "quantity": { "avg": 1 } }
+	],
+	"sounds": {
+		"walk": "walk/wood",
+		"place": "block/planks",
+		"break": "block/planks",
+		"hit": "block/planks"
+	}
+}

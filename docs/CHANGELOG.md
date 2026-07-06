@@ -4,13 +4,54 @@ Internal log. Format loosely follows [Keep a Changelog](https://keepachangelog.c
 `Unreleased` collects work that hasn't been published yet — do not bump the
 `modinfo.json` version until this section is ready to ship.
 
-Latest published: **1.0.2**.
+Latest published: **1.0.3**.
 
 ---
 
-## Unreleased
+## 1.0.3 — 2026-07-05
 
-Working toward `1.0.3`. **Not yet published.**
+### Added — Apiary v2 rework (3-part column, apiary scoop, winter physics)
+
+The Catherby wooden hive, rebuilt proper. A tall three-part apiary that
+assembles itself when the column is complete: Hive Stand, Hive Body, Hive
+Roof stacked 1×3.
+
+- Harvest is now gated on the **apiary scoop** (new item, own texture + recipe).
+  Bare hands and other tools are refused. Scoop yields 3–6 honeycombs plus a
+  scrape of beeswax, roughly weekly.
+- **Winter physics**: freezing stalls production; at −10°C the batch is lost
+  and the timer resets. A sealed glass-roofed room buys +5°C.
+- **Tamed propagation**: a settled colony with 6+ flowers within 8 blocks
+  swarms into nearby empty skeps every couple of days — a permanent, tamed
+  source of bees; never turns hostile.
+- Flower gate unchanged: 3+ bee-feed plants within 8 blocks; more flowers =
+  faster combs.
+- **Backward compatibility**: apiaries placed before the rework (v1 skeps)
+  are grandfathered in and continue to work.
+- New classes: `BlockApiarySection` (Stand/Body/Roof parts), `BlockApiaryPart`
+  (assembled column members), `BEApiary` (rewritten). New items:
+  `apiaryscoop`. New recipes: `apiarysection-base/body/roof`, `apiaryscoop`.
+
+### Added — Smith's Codex v2 (the Super Codex)
+
+Data-driven codex reader: pages now live on disk under
+`assets/runescape/config/codex/*.vtml` referenced by `index.json`. Adding a
+page = drop a `.vtml` file, list it in `index.json`, done — no code change.
+
+- Search box (case-insensitive across label / category / body).
+- Category grouping in the nav column with per-category filter buttons.
+- Cross-linked bodies via `<a href="key">label</a>` — VS richtext links.
+- Bookmarks (client-side persistence via `capi.Settings.String`).
+- Back button + navigation history (up to 32 hops).
+- `/codexreload` server command re-reads pages without restart.
+- 15 seed pages: overview, quickstart, metals, crucible, superheater,
+  smithing, lamellae, scoop, apiary, apiary scoop, fletching, specials,
+  hunter, packs, integrations, changelog.
+
+### Added — Tiered special-attack tools (post-steel harvest ability scaling)
+
+New pattern: four metal tiers past steel (mithril / adamantite / runite / dragon)
+scale a per-tool special ability by tier. Vanilla behavior preserved for
 
 ### Added — Tiered special-attack tools (post-steel harvest ability scaling)
 

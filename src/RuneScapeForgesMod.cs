@@ -7,6 +7,8 @@ namespace RuneScapeForges
         public override void Start(ICoreAPI api)
         {
             api.RegisterBlockClass("BlockApiary", typeof(BlockApiary));
+            api.RegisterBlockClass("BlockApiarySection", typeof(BlockApiarySection));
+            api.RegisterBlockClass("BlockApiaryPart", typeof(BlockApiaryPart));
             api.RegisterBlockClass("BlockBlastFurnaceController", typeof(BlockBlastFurnaceController));
             api.RegisterBlockClass("BlockArcFurnaceController", typeof(BlockArcFurnaceController));
             api.RegisterBlockClass("BlockMultiblockPart", typeof(BlockMultiblockPart));

@@ -10,14 +10,16 @@
 		{ "code": "side", "loadFromProperties": "abstract/horizontalorientation" }
 	],
 	"shapeByType": {
-		"*-north": { "base": "game:block/beehive/skep-{type}", "rotateY": 0 },
-		"*-east":  { "base": "game:block/beehive/skep-{type}", "rotateY": 270 },
-		"*-south": { "base": "game:block/beehive/skep-{type}", "rotateY": 180 },
-		"*-west":  { "base": "game:block/beehive/skep-{type}", "rotateY": 90 }
+		"*-north": { "base": "runescape:block/apiary/base", "rotateY": 0 },
+		"*-east":  { "base": "runescape:block/apiary/base", "rotateY": 270 },
+		"*-south": { "base": "runescape:block/apiary/base", "rotateY": 180 },
+		"*-west":  { "base": "runescape:block/apiary/base", "rotateY": 90 }
 	},
 	"textures": {
-		"hive": { "base": "game:block/wood/planks/oak1" },
-		"honeycomb": { "base": "game:block/reed/beehive/honeycomb" }
+		"white": { "base": "runescape:block/apiary/white" },
+		"whitehi": { "base": "runescape:block/apiary/whitehi" },
+		"shade": { "base": "runescape:block/apiary/shade" },
+		"dark": { "base": "runescape:block/apiary/dark" }
 	},
 	"creativeinventory": { "general": ["*-empty-east"], "decorative": ["*-empty-east"] },
 	"blockmaterial": "Wood",

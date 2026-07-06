@@ -1,0 +1,11 @@
+[
+	{
+		"ingredientPattern": "_P_,PPP",
+		"ingredients": {
+			"P": { "type": "item", "code": "game:plank-*" }
+		},
+		"name": "apiarysection-roof",
+		"width": 3, "height": 2,
+		"output": { "type": "block", "code": "runescape:apiarysection-roof" }
+	}
+]

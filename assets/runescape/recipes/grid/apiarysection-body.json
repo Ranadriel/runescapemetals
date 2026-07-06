@@ -1,0 +1,12 @@
+[
+	{
+		"ingredientPattern": "PPP,HHH,PPP",
+		"ingredients": {
+			"P": { "type": "item", "code": "game:plank-*" },
+			"H": { "type": "item", "code": "game:honeycomb" }
+		},
+		"name": "apiarysection-body",
+		"width": 3, "height": 3,
+		"output": { "type": "block", "code": "runescape:apiarysection-body" }
+	}
+]

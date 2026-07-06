@@ -57,6 +57,13 @@
 			"seeAlso": ["crucible", "lamellae"]
 		},
 		{
+			"key": "apiaryscoop",
+			"label": "Apiary scoop",
+			"category": "Crafts",
+			"file": "apiaryscoop.vtml",
+			"seeAlso": ["apiary"]
+		},
+		{
 			"key": "fletching",
 			"label": "Fletching",
 			"category": "Crafts",
@@ -82,7 +89,7 @@
 			"label": "Wooden skep apiary",
 			"category": "Living world",
 			"file": "apiary.vtml",
-			"seeAlso": []
+			"seeAlso": ["apiaryscoop"]
 		},
 		{
 			"key": "packs",

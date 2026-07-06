@@ -1,0 +1,8 @@
+{
+	"code": "apiaryscoop",
+	"creativeinventory": { "general": ["*"], "items": ["*"] },
+	"durability": 96,
+	"maxstacksize": 1,
+	"heldTpUseAnimation": "interactstatic",
+	"texture": { "base": "runescape:item/apiaryscoop" }
+}

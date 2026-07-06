@@ -28,6 +28,7 @@ Vanilla steel sits at tier 4. Each new metal has its own anvil at the matching t
 - **Contraptions**: lanterns (small + large), padlocks, metal nails-and-strips, chests, cabinets, helve-hammer assembly, metal plaques
 - **Smithing parts**: bracket, hub-metal, hoop, shield boss, rod, nails, tongs, wrench, crowbar, pounder cap, punch set
 - **Shields**: round shields in all three constructions (woodmetal, woodmetalleather, full metal), with tier-scaled durability gains
+- **Apiary v2**: white OSRS-style hive assembled from 3 stackable sections (stand/body/roof); scoop-gated weekly harvest of 3–6 honeycombs + beeswax, tamed swarming into nearby empty skeps, and real winter dormancy
 
 ## File layout
 
@@ -77,6 +78,24 @@ runescapemetals/
         ├── item/resource/nugget/{metal}.png       nuggets
         └── entity/humanoid/serapharmor/{plate,chain,scale,brigandine}/{metal}.png
 ```
+
+## Iron flow — by design, not configurable
+
+Iron ore smelts straight to iron ingots (`patches/iron_nuggets_to_ingot.json`); iron
+blooms are obsolete in this mod and this is deliberately NOT a config option.
+
+Design rationale: a bloom exists because a bloomery can't reach iron's melting point —
+solid-state reduction leaves slag fused to the sponge, hence vanilla's hammering step.
+This mod's premise is heat well past that (four tiers above steel); in a true melt the
+detritus floats and separates, so you cast clean ingots and the bloom step has no
+gameplay-additive reason to exist. Bloomeries are stone-age tech relative to this ladder.
+
+Technical rationale: the crucible machine / molten-unit / casting chain is built on
+well-formed ingot outputs. Blooms have no `combustibleProps` (meltingPoint resolves to
+float.MaxValue), so a bloom in a cook slot stalls the machine, and making blooms
+meltable was already tried and reverted (see the `*.disabled-2026-06-05-bloom-destruction`
+patches — generic smelting destroys the bloom's stored unit value). Do not resurrect
+the bloom path.
 
 ## Testing
 

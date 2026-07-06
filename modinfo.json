@@ -2,7 +2,7 @@
 	"type": "code",
 	"modid": "runescapemetals",
 	"name": "RuneScape Metals + Woods",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Mithril/adamantite/runite/dragon tier ladder above steel: ores, ingots, tools, armor, multiblock furnaces (Tier-2 Blast, Tier-3 Arc), and dragon-tier special attacks. Plus fletching: knife-cut arrow shafts, tiered short/longbows across six wood grades, and metal-tipped arrows up the full ladder. Optional Rune-Story integration: high-tier runic pickaxes when Rune-Story is loaded. Optional Primitive Survival integration: high-tier metal fishing hooks, lures, and spike-plate traps when Primitive Survival is loaded.",
 	"authors": ["Ranadriel", "LenKagamine"],
 	"side": "universal",

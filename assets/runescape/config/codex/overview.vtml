@@ -7,5 +7,8 @@ This codex is the unified entry point. Use the search box up top, browse the nav
 <strong>What kind of book is this?</strong>
 Every section lives in <em>assets/runescape/config/codex/</em>. Add a page by dropping in a new .vtml file and referencing it from index.json — no code change, no rebuild.
 
+<strong>Iron works differently here — no more blooms</strong>
+Iron ore smelts straight to iron ingots. This is intentional. A bloom is what you get when your fire is too cold to melt iron: a spongy mass with the slag stuck to the outside, which is why vanilla makes you hammer it. This mod's forges run far hotter than that — hot enough to fully melt iron and the four metals above steel. In a true melt the detritus floats and separates, and you cast clean metal. The bloom + hammering step is stone-age technology that this tech ladder has outgrown; keeping it would be an extra step for the sake of an extra step.
+
 <strong>Recent changes</strong>
 See <a href="changelog">What's new</a>.

@@ -1,11 +1,21 @@
 <strong>What's new</strong>
 
-<strong>1.0.3 (in progress) — the Super Codex</strong>
+<strong>1.0.3 — the Super Codex + the Apiary rework</strong>
+
+<em>The Apiary v2 rework</em>
+• Hive rebuilt as a 3-part column: craft Hive Stand, Hive Body and Hive Roof, stack them 1×3 and it assembles itself.
+• Harvest gated on the new <a href="apiaryscoop">apiary scoop</a>: 3–6 honeycombs + a scrape of beeswax, roughly weekly.
+• Tamed propagation: a settled colony swarms into nearby empty skeps — a permanent bee source that never turns hostile.
+• True winter physics: freezing stalls production, −10°C loses the batch, a sealed glass-roofed room buys +5°C.
+• The white OSRS hive look; <a href="apiary">apiaries</a> placed before the rework are grandfathered in.
+
+<em>The Super Codex</em>
 This book you're reading. Pages now live in <em>assets/runescape/config/codex/</em>. Search box, category grouping, cross-links (blue underlined text), bookmarks, and a category filter. Adding a page = drop a .vtml file, list it in index.json, done — no code change.
 
-Also this cycle:
+<em>Also this cycle</em>
 • Tier-scaled harvest tools (scythe / hoe / shears / axe) — see <a href="specials">Tier-scaled tools</a>.
 • Attack curve rescaled to steel × 1.25ⁿ.
+• Iron ore smelts straight to iron ingots — no bloom step. See <a href="overview">Overview</a> for why.
 
 <strong>1.0.2 (published)</strong>
 • <a href="superheater">Superheater</a> block (+300°C to any large crucible).

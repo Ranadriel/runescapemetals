@@ -1,0 +1,12 @@
+[
+	{
+		"ingredientPattern": "P_P,PNP",
+		"ingredients": {
+			"P": { "type": "item", "code": "game:plank-*" },
+			"N": { "type": "item", "code": "game:metalnailsandstrips-*", "allowedVariants": ["iron", "meteoriciron", "steel"] }
+		},
+		"name": "apiarysection-base",
+		"width": 3, "height": 2,
+		"output": { "type": "block", "code": "runescape:apiarysection-base" }
+	}
+]
